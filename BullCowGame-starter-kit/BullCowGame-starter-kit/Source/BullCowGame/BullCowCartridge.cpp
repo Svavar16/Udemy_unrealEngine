@@ -10,6 +10,12 @@ void UBullCowCartridge::BeginPlay() // When the game starts
 
     PrintLine(TEXT("we have: %i"), Words.Num());
 
+    for(int32 i = 0; i < 10; i++){
+        if(Words[i].Len() >= 4 && Words[i].Len() <= 8){
+            PrintLine(TEXT("%s"), *Words[i]);
+        }
+    }
+
     PrintLine(TEXT("The hiddenword is: %s"), *HiddenWord);
 }
 
