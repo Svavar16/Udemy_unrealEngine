@@ -569,3 +569,292 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.18-09.04.31:231][406]LogSlate: Window 'Plugins' being destroyed
 [2020.12.18-09.04.31:236][406]LogSlate: Window 'Plugins' being destroyed
 [2020.12.18-09.04.31:236][406]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.12.18-09.14.00:992][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:232][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:233][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:233][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:233][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:233][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:233][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:233][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:233][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:233][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:233][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:233][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:233][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:233][ 34]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-10.54.36:550][ 36]LogHttp: Warning: 000001EC8016F880: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.12.18-10.54.36:550][ 36]LogHttp: Warning: 000001EC8016F880: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ece5293f70 [can pipeline])
+[2020.12.18-10.54.36:550][ 36]LogHttp: Warning: 000001EC8016F880: libcurl info message cache 1 (Re-using existing connection! (#26) with host datarouter.ol.epicgames.com)
+[2020.12.18-10.54.36:550][ 36]LogHttp: Warning: 000001EC8016F880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.152.142.123) port 443 (#26))
+[2020.12.18-10.54.36:550][ 36]LogHttp: Warning: 000001EC8016F880: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.12.18-10.54.36:550][ 36]LogHttp: Warning: 000001EC8016F880: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.12.18-10.54.36:550][ 36]LogHttp: Warning: 000001EC8016F880: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.12.18-10.54.36:550][ 36]LogHttp: Warning: 000001EC8016F880: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.12.18-10.54.36:550][ 36]LogHttp: Warning: 000001EC8016F880: libcurl info message cache 7 (Closing connection 26)
+[2020.12.18-10.54.36:550][ 36]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B07721CE6-42DB-8250-313E-DD8DCEBA08DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3b369843416e5120deaa89ad21505c3a%7C5bbf166781ac427fb155833d2e667851%7C19c12135-a471-42df-b0f7-b996df67017c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.12.18-10.55.22:226][170]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (45.993 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-13.09.26:230][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.18-13.09.31:359][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.18-13.09.31:398][575]LogSlate: Took 0.001801 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.18-13.09.31:584][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.18-13.10.30:748][713]LogSlate: Window 'Class Viewer' being destroyed
+[2020.12.18-13.10.30:756][713]LogSlate: Window 'Class Viewer' being destroyed
+[2020.12.18-13.10.58:894][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.18-13.10.59:152][409]LogActorFactory: Actor Factory created Sphere
+[2020.12.18-13.11.00:210][469]LogActorFactory: Actor Factory created Sphere
+[2020.12.18-13.11.51:155][719]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.12.18-13.11.51:221][719]LogSavePackage: Moving '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Saved/Untitled_1_Auto1F5132107464DA18C0EB9C48B6473B963.tmp' to '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.12.18-13.11.51:231][719]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.121
+[2020.12.18-13.11.51:232][719]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.121
+[2020.12.18-13.28.32:268][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.18-13.28.34:324][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.18-13.28.34:357][817]LogSlate: Took 0.007928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.18-13.38.36:499][817]Candidate modules for hot reload:
+[2020.12.18-13.38.36:499][817]  BuildingEscape
+[2020.12.18-13.38.36:500][817]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,4461 Win64 Development -TargetType=Editor -Project="C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject" "C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.12.18-13.38.55:688][817]CompilerResultsLog: New page: Compilation - Dec 18, 2020, 1:38:55 PM
+[2020.12.18-13.38.55:689][817]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\programming\udemy_unrealEngine).
+[2020.12.18-13.38.55:689][817]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (.uproject file is newer)
+[2020.12.18-13.38.55:689][817]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.12.18-13.38.55:689][817]CompilerResultsLog:   Running UnrealHeaderTool "C:\programming\udemy_unrealEngine\BuildingEscape\BuildingEscape.uproject" "C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.18-13.38.55:689][817]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 8.2574158 seconds
+[2020.12.18-13.38.55:689][817]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.18-13.38.55:689][817]CompilerResultsLog: Building 9 actions with 4 processes...
+[2020.12.18-13.38.55:689][817]CompilerResultsLog:   [1/9] BuildingEscape.cpp
+[2020.12.18-13.38.55:689][817]CompilerResultsLog:   [2/9] BuildingEscape.init.gen.cpp
+[2020.12.18-13.38.55:689][817]CompilerResultsLog:   [3/9] BuildingEscapeGameModeBase.cpp
+[2020.12.18-13.38.55:689][817]CompilerResultsLog:   [4/9] WorldPosition.cpp
+[2020.12.18-13.38.55:689][817]CompilerResultsLog:   [5/9] WorldPosition.gen.cpp
+[2020.12.18-13.38.55:689][817]CompilerResultsLog:   [6/9] BuildingEscapeGameModeBase.gen.cpp
+[2020.12.18-13.38.55:689][817]CompilerResultsLog:   [7/9] UE4Editor-BuildingEscape-4461.lib
+[2020.12.18-13.38.55:689][817]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4461.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4461.exp
+[2020.12.18-13.38.55:689][817]CompilerResultsLog:   [8/9] UE4Editor-BuildingEscape-4461.dll
+[2020.12.18-13.38.55:689][817]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4461.suppressed.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4461.suppressed.exp
+[2020.12.18-13.38.55:689][817]CompilerResultsLog:   [9/9] BuildingEscapeEditor.target
+[2020.12.18-13.38.55:689][817]CompilerResultsLog: Total time in Parallel executor: 7.19 seconds
+[2020.12.18-13.38.55:689][817]CompilerResultsLog: Total execution time: 19.07 seconds
+[2020.12.18-13.38.55:690][817]LogMainFrame: MainFrame: Module compiling took 19.197 seconds
+[2020.12.18-13.38.55:721][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.12.18-13.38.55:769][817]LogClass: Could not find existing class WorldPosition in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.12.18-13.38.55:772][817]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2020.12.18-13.38.55:775][817]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.18-13.38.55:888][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.12.18-13.38.55:910][817]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 2735 classes and 663 folders.
+[2020.12.18-13.38.55:914][817]Display: HotReload took 19.4s.
+[2020.12.18-13.38.55:915][817]Warning: HotReload operation took 19.4s.
+[2020.12.18-13.38.55:948][817]LogSlate: Window 'Add C++ Component' being destroyed
+[2020.12.18-13.38.55:962][817]LogHotReload: New module detected: UE4Editor-BuildingEscape-4461.dll
+[2020.12.18-13.38.55:998][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.18-13.38.56:005][817]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.18-13.38.56:041][818]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.18-13.38.56:062][818]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1745)].
+[2020.12.18-13.38.56:114][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.12.18-13.38.56:120][818]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.12.18-13.38.56:123][818]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.18-13.38.56:161][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.18-13.38.56:177][818]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2735 classes and 663 folders.
+[2020.12.18-13.38.56:180][818]Display: HotReload took  0.1s.
+[2020.12.18-13.38.56:187][818]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-13.38.56:187][818]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-13.38.56:187][818]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-13.38.56:187][818]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-13.38.56:187][818]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-13.38.56:187][818]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-13.38.56:187][818]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-13.38.56:187][818]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-13.38.56:187][818]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-13.39.05:855][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.12.18-13.39.06:003][853]LogSavePackage: Moving '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Saved/Untitled_1_Auto27EC7151441C57CE260920C8A39FF1DA5.tmp' to '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2020.12.18-13.39.06:006][853]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.179
+[2020.12.18-13.39.06:006][853]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.179
+[2020.12.18-13.39.22:209][902]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (26.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.18-13.39.28:638][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.18-13.39.31:458][133]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.18-13.39.33:482][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.18-13.39.34:961][244]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.12.18-13.40.08:751][ 41]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.18-13.40.08:758][ 41]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.18-13.42.55:245][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.18-13.42.55:331][744]Candidate modules for hot reload:
+[2020.12.18-13.42.55:332][744]  BuildingEscape
+[2020.12.18-13.42.55:332][744]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,3162 Win64 Development -TargetType=Editor -Project="C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject" "C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.12.18-13.42.55:335][744]Warning: Starting HotReload took  0.0s.
+[2020.12.18-13.43.12:665][595]CompilerResultsLog: New page: Compilation - Dec 18, 2020, 1:43:12 PM
+[2020.12.18-13.43.12:665][595]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\programming\udemy_unrealEngine).
+[2020.12.18-13.43.12:665][595]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (ini files are newer than makefile)
+[2020.12.18-13.43.12:665][595]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.12.18-13.43.12:665][595]CompilerResultsLog:   Running UnrealHeaderTool "C:\programming\udemy_unrealEngine\BuildingEscape\BuildingEscape.uproject" "C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.18-13.43.12:665][595]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 9.0917091 seconds
+[2020.12.18-13.43.12:665][595]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.18-13.43.12:665][595]CompilerResultsLog: Building 5 actions with 4 processes...
+[2020.12.18-13.43.12:665][595]CompilerResultsLog:   [1/5] WorldPosition.cpp
+[2020.12.18-13.43.12:665][595]CompilerResultsLog:   [2/5] WorldPosition.gen.cpp
+[2020.12.18-13.43.12:665][595]CompilerResultsLog:   [3/5] UE4Editor-BuildingEscape-3162.lib
+[2020.12.18-13.43.12:665][595]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-3162.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-3162.exp
+[2020.12.18-13.43.12:665][595]CompilerResultsLog:   [4/5] UE4Editor-BuildingEscape-3162.dll
+[2020.12.18-13.43.12:665][595]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-3162.suppressed.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-3162.suppressed.exp
+[2020.12.18-13.43.12:665][595]CompilerResultsLog:   [5/5] BuildingEscapeEditor.target
+[2020.12.18-13.43.12:666][595]CompilerResultsLog: Total time in Parallel executor: 3.99 seconds
+[2020.12.18-13.43.12:666][595]CompilerResultsLog: Total execution time: 17.14 seconds
+[2020.12.18-13.43.12:666][595]LogMainFrame: MainFrame: Module compiling took 17.337 seconds
+[2020.12.18-13.43.12:696][595]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.12.18-13.43.12:737][595]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.12.18-13.43.12:740][595]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.18-13.43.12:806][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.12.18-13.43.12:822][595]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2735 classes and 663 folders.
+[2020.12.18-13.43.12:823][595]Display: HotReload took 17.5s.
+[2020.12.18-13.43.16:268][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.18-13.43.16:412][803]LogActorFactory: Actor Factory created Cube
+[2020.12.18-13.43.17:953][895]LogActorFactory: Actor Factory created Cube
+[2020.12.18-13.43.21:092][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.12.18-13.43.22:300][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.12.18-13.43.24:694][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.18-13.43.26:653][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.18-13.43.41:180][399]Candidate modules for hot reload:
+[2020.12.18-13.43.41:180][399]  BuildingEscape
+[2020.12.18-13.43.41:180][399]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,117 Win64 Development -TargetType=Editor -Project="C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject" "C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.12.18-13.43.54:800][399]CompilerResultsLog: New page: Compilation - Dec 18, 2020, 1:43:54 PM
+[2020.12.18-13.43.54:800][399]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\programming\udemy_unrealEngine).
+[2020.12.18-13.43.54:800][399]CompilerResultsLog: Invalidating makefile for BuildingEscapeEditor (source file added)
+[2020.12.18-13.43.54:800][399]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.12.18-13.43.54:800][399]CompilerResultsLog:   Running UnrealHeaderTool "C:\programming\udemy_unrealEngine\BuildingEscape\BuildingEscape.uproject" "C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.18-13.43.54:800][399]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 7.2878231 seconds
+[2020.12.18-13.43.54:800][399]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.18-13.43.54:800][399]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.12.18-13.43.54:800][399]CompilerResultsLog:   [1/6] CubeWorldPosition.cpp
+[2020.12.18-13.43.54:800][399]CompilerResultsLog:   [2/6] BuildingEscape.init.gen.cpp
+[2020.12.18-13.43.54:801][399]CompilerResultsLog:   [3/6] CubeWorldPosition.gen.cpp
+[2020.12.18-13.43.54:801][399]CompilerResultsLog:   [4/6] UE4Editor-BuildingEscape-0117.lib
+[2020.12.18-13.43.54:801][399]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0117.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0117.exp
+[2020.12.18-13.43.54:801][399]CompilerResultsLog:   [5/6] UE4Editor-BuildingEscape-0117.dll
+[2020.12.18-13.43.54:801][399]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0117.suppressed.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0117.suppressed.exp
+[2020.12.18-13.43.54:801][399]CompilerResultsLog:   [6/6] BuildingEscapeEditor.target
+[2020.12.18-13.43.54:801][399]CompilerResultsLog: Total time in Parallel executor: 3.59 seconds
+[2020.12.18-13.43.54:801][399]CompilerResultsLog: Total execution time: 13.50 seconds
+[2020.12.18-13.43.54:801][399]LogMainFrame: MainFrame: Module compiling took 13.625 seconds
+[2020.12.18-13.43.54:832][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.12.18-13.43.54:850][399]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2735 classes and 663 folders.
+[2020.12.18-13.43.54:850][399]Display: HotReload took 13.7s.
+[2020.12.18-13.43.54:852][399]Warning: HotReload operation took 13.7s.
+[2020.12.18-13.43.54:866][399]LogSlate: Window 'Add C++ Component' being destroyed
+[2020.12.18-13.43.54:870][399]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/BuildingEscape.CubeWorldPosition'
+[2020.12.18-13.43.54:877][399]LogHotReload: New module detected: UE4Editor-BuildingEscape-0117.dll
+[2020.12.18-13.43.54:956][400]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.18-13.43.55:027][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.18-13.43.55:061][400]LogClass: Could not find existing class CubeWorldPosition in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.12.18-13.43.55:068][400]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0008 seconds. Added 3 classes and 2 folders.
+[2020.12.18-13.43.55:076][400]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.18-13.43.55:155][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.12.18-13.43.55:177][400]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2736 classes and 663 folders.
+[2020.12.18-13.43.55:181][400]Display: HotReload took  0.2s.
+[2020.12.18-13.44.12:854][625]LogSlate: Window 'Save Level As' being destroyed
+[2020.12.18-13.44.15:586][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.18-13.44.15:670][791]MapCheck: New page: Map Check
+[2020.12.18-13.44.15:686][791]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.18-13.44.15:687][791]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.18-13.44.15:732][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.12.18-13.44.15:756][791]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.18-13.44.15:774][791]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.18-13.44.15:785][791]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.18-13.44.17:515][791]TextureStreamingBuild: Display: Compiling optional shaders took 1.773 seconds.
+[2020.12.18-13.44.17:531][791]LogLevel: Display: Export Material TexCoord Scales took 0.016 seconds.
+[2020.12.18-13.44.17:543][791]TextureStreamingBuild: Display: Build Texture Streaming took 0.011 seconds.
+[2020.12.18-13.44.17:570][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.12.18-13.44.17:572][791]LightingResults: New page: Lighting Build - Dec 18, 2020, 1:44:17 PM
+[2020.12.18-13.44.17:633][791]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.18-13.44.17:726][791]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.18-13.44.17:748][791]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.18-13.44.18:790][791]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.18-13.44.18:790][791]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2396
+[2020.12.18-13.44.21:322][791]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.12.18-13.44.21:323][791]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.18-13.44.21:323][791]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.18-13.44.21:323][791]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.18-13.44.21:323][791]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.18-13.44.21:323][791]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.18-13.44.21:645][791]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.12.18-13.44.21:645][791]MapCheck: New page: Untitled_1 - Dec 18, 2020, 1:44:21 PM
+[2020.12.18-13.44.21:646][791]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.12.18-13.44.21:649][791]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 3.437ms to complete.
+[2020.12.18-13.44.21:673][791]LogEditorBuildUtils: Build time 0:05
+[2020.12.18-13.44.21:708][791]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2020.12.18-13.44.21:724][791]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2020.12.18-13.44.21:963][793]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.12.18-13.44.21:989][793]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.12.18-13.44.24:551][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.18-13.44.28:594][914]Job is a success!
+[2020.12.18-13.44.42:316][688]LogSlate: Window 'Message Log' being destroyed
+[2020.12.18-13.44.42:322][688]LogSlate: Window 'Message Log' being destroyed
+[2020.12.18-13.44.47:531][724]LogSlate: Took 0.011409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.18-13.44.50:802][733]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2020.12.18-13.44.50:802][733]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.18-13.44.50:802][733]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2020.12.18-13.44.50:802][733]LogVolumetricLightmapImport:      Bricks at Level
+[2020.12.18-13.44.50:802][733]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.12.18-13.44.50:802][733]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.12.18-13.44.50:802][733]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.12.18-13.44.50:886][733]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.12.18-13.44.50:886][733]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.12.18-13.44.50:886][733]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.12.18-13.44.50:886][733]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.12.18-13.44.50:886][733]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.12.18-13.44.50:886][733]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2020.12.18-13.44.50:923][733]LogStaticLightingSystem: Untitled_1_BuiltData storing lightmap data for 4 meshes in 2 LightmapResourceClusters (2.0 Meshes per cluster).
+[2020.12.18-13.44.50:951][733]Lightmass on DESKTOP-20QOTAL: 24.6 sec total, 462 ms importing, 49 ms setup, 296 ms photons, 23.2 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 1:32 min total, 849 ms processing.
+[2020.12.18-13.44.50:954][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.12.18-13.44.50:960][733]LogStaticLightingSystem: Illumination: 11.2 sec (45 ms encoding lightmaps, 26 ms encoding shadowmaps)
+[2020.12.18-13.44.50:960][733]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.12.18-13.44.50:960][733]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.12.18-13.44.51:350][733]DumpUnbuiltLightIteractions
+[2020.12.18-13.44.51:350][733]Lights with unbuilt interactions: 0
+[2020.12.18-13.44.51:350][733]
+[2020.12.18-13.44.51:350][733]Primitives with unbuilt interactions: 0
+[2020.12.18-13.44.51:441][734]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.18-13.44.51:441][734]MapCheck: New page: Untitled_1 - Dec 18, 2020, 1:44:51 PM
+[2020.12.18-13.44.51:441][734]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.46ms to complete.
+[2020.12.18-13.44.54:170][897]Candidate modules for hot reload:
+[2020.12.18-13.44.54:170][897]  BuildingEscape
+[2020.12.18-13.44.54:171][897]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,6684 Win64 Development -TargetType=Editor -Project="C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject" "C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.12.18-13.44.54:172][897]Warning: Starting HotReload took  0.0s.
+[2020.12.18-13.45.07:285][ 40]CompilerResultsLog: New page: Compilation - Dec 18, 2020, 1:45:07 PM
+[2020.12.18-13.45.07:286][ 40]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\programming\udemy_unrealEngine).
+[2020.12.18-13.45.07:286][ 40]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.12.18-13.45.07:286][ 40]CompilerResultsLog:   Running UnrealHeaderTool "C:\programming\udemy_unrealEngine\BuildingEscape\BuildingEscape.uproject" "C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.18-13.45.07:286][ 40]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 8.0028664 seconds
+[2020.12.18-13.45.07:286][ 40]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.18-13.45.07:286][ 40]CompilerResultsLog: Building 3 actions with 4 processes...
+[2020.12.18-13.45.07:286][ 40]CompilerResultsLog:   [1/3] UE4Editor-BuildingEscape-6684.lib
+[2020.12.18-13.45.07:286][ 40]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-6684.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-6684.exp
+[2020.12.18-13.45.07:286][ 40]CompilerResultsLog:   [2/3] UE4Editor-BuildingEscape-6684.dll
+[2020.12.18-13.45.07:286][ 40]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-6684.suppressed.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-6684.suppressed.exp
+[2020.12.18-13.45.07:287][ 40]CompilerResultsLog:   [3/3] BuildingEscapeEditor.target
+[2020.12.18-13.45.07:287][ 40]CompilerResultsLog: Total time in Parallel executor: 2.69 seconds
+[2020.12.18-13.45.07:287][ 40]CompilerResultsLog: Total execution time: 12.73 seconds
+[2020.12.18-13.45.07:287][ 40]LogMainFrame: MainFrame: Module compiling took 13.120 seconds
+[2020.12.18-13.45.07:326][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.12.18-13.45.07:373][ 40]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2020.12.18-13.45.07:376][ 40]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.18-13.45.07:441][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.12.18-13.45.07:460][ 40]LogContentBrowser: Native class hierarchy populated in 0.0138 seconds. Added 2736 classes and 663 folders.
+[2020.12.18-13.45.07:460][ 40]Display: HotReload took 13.3s.
