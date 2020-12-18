@@ -1,0 +1,2 @@
+C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Definitions.BuildingEscape.h
+c:\programming\udemy_unrealengine\buildingescape\source\buildingescape\BuildingEscape.h

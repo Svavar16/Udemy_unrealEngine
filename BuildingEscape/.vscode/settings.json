@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"C:/programming/udemy_unrealEngine/BuildingEscape/.vscode": true,
+		"C:/programming/udemy_unrealEngine/BuildingEscape/Content": true,
+		"C:/programming/udemy_unrealEngine/BuildingEscape/Intermediate": true
+	}
+}
