@@ -1,0 +1,1378 @@
+﻿Log file open, 12/21/20 07:54:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BuildingEscape
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.306999
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.12.21-07.54.31:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.21-07.54.31:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.12.21-07.54.31:149][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.12.21-07.54.31:156][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.21-07.54.31:156][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.21-07.54.31:157][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.21-07.54.31:158][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.21-07.54.31:158][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.21-07.54.31:192][  0]LogHAL: Display: Platform has ~ 16 GB [17040236544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.12.21-07.54.31:192][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.21-07.54.31:192][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.21-07.54.31:192][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.21-07.54.31:193][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.21-07.54.31:194][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.12.21-07.54.31:194][  0]LogInit: Computer: DESKTOP-20QOTAL
+[2020.12.21-07.54.31:194][  0]LogInit: User: spg00
+[2020.12.21-07.54.31:194][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.21-07.54.31:194][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.21-07.54.31:194][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.21-07.54.31:194][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.21-07.54.31:194][  0]LogMemory: Process Physical Memory: 97.05 MB used, 97.05 MB peak
+[2020.12.21-07.54.31:194][  0]LogMemory: Process Virtual Memory: 83.83 MB used, 83.83 MB peak
+[2020.12.21-07.54.31:194][  0]LogMemory: Physical Memory: 10803.63 MB used,  5447.21 MB free, 16250.84 MB total
+[2020.12.21-07.54.31:194][  0]LogMemory: Virtual Memory: 4625.34 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2020.12.21-07.54.31:299][  0]LogInit: Using OS detected language (en-US).
+[2020.12.21-07.54.31:299][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.21-07.54.31:300][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.21-07.54.31:744][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.21-07.54.31:789][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.21-07.54.31:789][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.21-07.54.35:946][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.21-07.54.35:946][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.21-07.54.36:045][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2020.12.21-07.54.36:045][  0]LogD3D11RHI:       4055/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.12.21-07.54.36:088][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.12.21-07.54.36:088][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.21-07.54.36:092][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.21-07.54.36:092][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.21-07.54.36:092][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.21-07.54.36:161][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.21-07.54.36:162][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2020.12.21-07.54.36:162][  0]LogWindows: EnumDisplayDevices:
+[2020.12.21-07.54.36:162][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.12.21-07.54.36:162][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2020.12.21-07.54.36:163][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.12.21-07.54.36:163][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.12.21-07.54.36:163][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2020.12.21-07.54.36:163][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.12.21-07.54.36:163][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.12.21-07.54.36:163][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2020.12.21-07.54.36:227][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.21-07.54.36:233][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.12.21-07.54.36:234][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.12.21-07.54.36:234][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.12.21-07.54.36:249][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.12.21-07.54.36:660][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.12.21-07.54.36:678][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.12.21-07.54.36:695][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.12.21-07.54.36:714][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.12.21-07.54.36:741][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.12.21-07.54.36:759][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.12.21-07.54.36:778][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.21-07.54.36:797][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.12.21-07.54.36:807][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.12.21-07.54.36:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.12.21-07.54.36:945][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.12.21-07.54.37:021][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.12.21-07.54.37:021][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.12.21-07.54.37:053][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.12.21-07.54.37:053][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.12.21-07.54.37:071][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.12.21-07.54.37:089][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.21-07.54.37:105][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.12.21-07.54.37:137][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.12.21-07.54.37:207][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.12.21-07.54.37:207][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.12.21-07.54.37:207][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.21-07.54.37:220][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.21-07.54.37:303][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../programming/udemy_unrealEngine/BuildingEscape/Intermediate/Shaders/WorkingDirectory/13456/).
+[2020.12.21-07.54.37:303][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/spg00/AppData/Local/Temp/UnrealShaderWorkingDir/9335B85A4981A531A9ABB39483833C7F/'.
+[2020.12.21-07.54.37:306][  0]LogXGEController: Cleaning working directory: C:/Users/spg00/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.21-07.54.37:306][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.21-07.54.37:306][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.21-07.54.37:307][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.21-07.54.41:088][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.21-07.54.41:312][  0]LogDerivedDataCache: Loaded boot cache 0.22s 71MB C:/Users/spg00/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.12.21-07.54.41:312][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/spg00/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.12.21-07.54.41:312][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../programming/udemy_unrealEngine/BuildingEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.21-07.54.41:312][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.21-07.54.41:312][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../programming/udemy_unrealEngine/BuildingEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.21-07.54.41:312][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.21-07.54.41:340][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.21-07.54.41:340][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.21-07.54.41:340][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.21-07.54.41:352][  0]LogDerivedDataCache: Using Local data cache path C:/Users/spg00/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.21-07.54.41:352][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.21-07.54.41:352][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.21-07.54.41:384][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.21-07.54.41:385][  0]LogSlate: Using FreeType 2.6.0
+[2020.12.21-07.54.41:386][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.21-07.54.41:510][  0]LogAssetRegistry: FAssetRegistry took 0.0386 seconds to start up
+[2020.12.21-07.54.41:996][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.21-07.54.42:398][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.21-07.54.42:399][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.21-07.54.42:399][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.21-07.54.42:399][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.21-07.54.42:399][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.21-07.54.42:463][  0]LogNetVersion: BuildingEscape 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1788021529)
+[2020.12.21-07.54.44:060][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.077805 seconds
+[2020.12.21-07.54.44:072][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.12.21-07.54.44:072][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.12.21-07.54.44:072][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.21-07.54.46:845][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.21-07.54.46:859][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.21-07.54.47:039][  0]SourceControl: Source control is disabled
+[2020.12.21-07.54.47:039][  0]SourceControl: Source control is disabled
+[2020.12.21-07.54.47:043][  0]SourceControl: Source control is disabled
+[2020.12.21-07.54.47:045][  0]SourceControl: Source control is disabled
+[2020.12.21-07.54.47:202][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.21-07.54.47:356][  0]LogOcInput: OculusInput pre-init called
+[2020.12.21-07.54.48:503][  0]LogEngine: Initializing Engine...
+[2020.12.21-07.54.48:505][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.21-07.54.48:506][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.21-07.54.49:109][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.21-07.54.49:134][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.21-07.54.49:155][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.21-07.54.49:190][  0]LogInit: FAudioDevice initialized.
+[2020.12.21-07.54.49:191][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.21-07.54.49:404][  0]LogDerivedDataCache: Saved boot cache 0.21s 71MB C:/Users/spg00/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.12.21-07.54.49:418][  0]LogInit: Texture streaming: Enabled
+[2020.12.21-07.54.49:447][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.21-07.54.49:447][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={E9BD9CDD-463A-D5BF-EC30-F1BE2D0704A8}
+[2020.12.21-07.54.49:483][  0]LogInit: Transaction tracking system initialized
+[2020.12.21-07.54.49:530][  0]BlueprintLog: New page: Editor Load
+[2020.12.21-07.54.49:674][  0]LocalizationService: Localization service is disabled
+[2020.12.21-07.54.50:497][  0]LogFileCache: Scanning file cache for directory 'C:/programming/udemy_unrealEngine/BuildingEscape/Content/' took 0.01s
+[2020.12.21-07.54.50:498][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.21-07.54.50:498][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.21-07.54.50:935][  0]SourceControl: Source control is disabled
+[2020.12.21-07.54.50:936][  0]Cmd: MAP LOAD FILE="../../../../../../programming/udemy_unrealEngine/BuildingEscape/Content/BuildingEscape.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.21-07.54.50:942][  0]LightingResults: New page: Lighting Build
+[2020.12.21-07.54.50:947][  0]MapCheck: New page: Map Check
+[2020.12.21-07.54.50:947][  0]LightingResults: New page: Lighting Build
+[2020.12.21-07.54.50:983][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.12.21-07.54.51:252][  0]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.12.21-07.54.51:267][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.21-07.54.51:299][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.12.21-07.54.51:299][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.21-07.54.51:300][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2020.12.21-07.54.51:300][  0]LogFileHelpers: Loading map 'BuildingEscape' took 0.365
+[2020.12.21-07.54.51:449][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.21-07.54.51:458][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.21-07.54.51:470][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.21-07.54.51:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.21-07.54.51:501][  0]LogCollectionManager: Loaded 0 collections in 0.002327 seconds
+[2020.12.21-07.54.51:520][  0]LogFileCache: Scanning file cache for directory 'C:/programming/udemy_unrealEngine/BuildingEscape/Saved/Collections/' took 0.01s
+[2020.12.21-07.54.51:520][  0]LogFileCache: Scanning file cache for directory 'C:/programming/udemy_unrealEngine/BuildingEscape/Content/Developers/spg00/Collections/' took 0.00s
+[2020.12.21-07.54.51:520][  0]LogFileCache: Scanning file cache for directory 'C:/programming/udemy_unrealEngine/BuildingEscape/Content/Collections/' took 0.00s
+[2020.12.21-07.54.51:520][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.12.21-07.54.51:535][  0]LogContentBrowser: Native class hierarchy populated in 0.0143 seconds. Added 2734 classes and 661 folders.
+[2020.12.21-07.54.51:547][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.12.21-07.54.51:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:567][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:604][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:624][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:653][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:710][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:719][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.51:841][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.21-07.54.52:068][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.12.21-07.54.52:078][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.12.21-07.54.52:108][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.21-07.54.52:111][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.21-07.54.52:131][  0]LogSlate: Took 0.011671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.21-07.54.52:364][  0]LogRenderer: Reallocating scene render targets to support 1272x796 Format 10 NumSamples 1 (Frame:1).
+[2020.12.21-07.54.52:423][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.21-07.54.52:587][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.12.21-07.54.52:587][  0]LogLoad: (Engine Initialization) Total time: 24.04 seconds
+[2020.12.21-07.54.52:587][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.21-07.54.52:652][  0]LogAssetRegistry: Asset discovery search completed in 11.1656 seconds
+[2020.12.21-07.54.52:657][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.12.21-07.54.52:657][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000124 seconds (updated 0 objects)
+[2020.12.21-07.54.52:659][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.21-07.55.16:250][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.21-07.55.16:337][116]Candidate modules for hot reload:
+[2020.12.21-07.55.16:337][116]  BuildingEscape
+[2020.12.21-07.55.16:337][116]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,4814 Win64 Development -TargetType=Editor -Project="C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject" "C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.12.21-07.55.16:341][116]Warning: Starting HotReload took  0.0s.
+[2020.12.21-07.55.33:773][119]CompilerResultsLog: New page: Compilation - Dec 21, 2020, 7:55:33 AM
+[2020.12.21-07.55.33:773][119]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\programming\udemy_unrealEngine).
+[2020.12.21-07.55.33:774][119]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (ini files are newer than makefile)
+[2020.12.21-07.55.33:774][119]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.12.21-07.55.33:774][119]CompilerResultsLog:   Running UnrealHeaderTool "C:\programming\udemy_unrealEngine\BuildingEscape\BuildingEscape.uproject" "C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.21-07.55.33:774][119]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 8.9203934 seconds
+[2020.12.21-07.55.33:774][119]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.21-07.55.33:774][119]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.12.21-07.55.33:774][119]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2020.12.21-07.55.33:774][119]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-4814.lib
+[2020.12.21-07.55.33:774][119]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4814.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4814.exp
+[2020.12.21-07.55.33:774][119]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-4814.dll
+[2020.12.21-07.55.33:774][119]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4814.suppressed.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4814.suppressed.exp
+[2020.12.21-07.55.33:774][119]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.12.21-07.55.33:774][119]CompilerResultsLog: Total time in Parallel executor: 4.51 seconds
+[2020.12.21-07.55.33:774][119]CompilerResultsLog: Total execution time: 17.28 seconds
+[2020.12.21-07.55.33:774][119]LogMainFrame: MainFrame: Module compiling took 17.441 seconds
+[2020.12.21-07.55.33:804][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.12.21-07.55.33:830][119]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.12.21-07.55.33:834][119]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.21-07.55.33:934][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.12.21-07.55.33:950][119]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2735 classes and 663 folders.
+[2020.12.21-07.55.33:950][119]Display: HotReload took 17.6s.
+[2020.12.21-07.55.37:317][311]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.21-07.55.37:336][311]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.21-07.55.37:336][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.21-07.55.37:336][311]PIE: New page: PIE session: BuildingEscape (Dec 21, 2020, 7:55:37 AM)
+[2020.12.21-07.55.37:349][311]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BuildingEscape
+[2020.12.21-07.55.37:352][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002858s)
+[2020.12.21-07.55.37:353][311]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.12.21-07.55.37:354][311]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2020.12.21-07.55.37:354][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildingEscape.BuildingEscape to /Game/UEDPIE_0_BuildingEscape.BuildingEscape (0.004780s)
+[2020.12.21-07.55.37:381][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.12.21-07.55.37:386][311]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.21-07.55.37:414][311]LogInit: FAudioDevice initialized.
+[2020.12.21-07.55.37:457][311]LogLoad: Game class is 'GameModeBase'
+[2020.12.21-07.55.37:459][311]LogWorld: Bringing World /Game/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.12.21-07.55.37
+[2020.12.21-07.55.37:459][311]LogWorld: Bringing up level for play took: 0.000772
+[2020.12.21-07.55.37:502][311]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.12.21-07.55.37:503][311]LogTemp: Warning: Sphere_2
+[2020.12.21-07.55.37:503][311]LogTemp: Warning: Cube_5
+[2020.12.21-07.55.37:504][311]PIE: Play in editor start time for /Game/UEDPIE_0_BuildingEscape 0.334
+[2020.12.21-07.55.37:504][311]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.21-07.55.38:857][380]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.21-07.55.44:507][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.21-07.55.44:508][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.21-07.55.44:540][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.21-07.55.44:541][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.21-07.55.44:585][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.21-07.55.44:588][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.12.21-07.55.44:622][714]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.12.21-08.04.51:080][783]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.21-11.29.54:707][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:707][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:708][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:708][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:708][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:709][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:709][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:709][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:709][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:710][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:710][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:710][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:711][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:711][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:711][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:712][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:712][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:713][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:713][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:713][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:713][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:714][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:714][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:714][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:715][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:715][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:715][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:716][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:716][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:717][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:717][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:717][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:718][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:718][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:718][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:718][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:719][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:719][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:719][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:720][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:720][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:720][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:720][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:721][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:721][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:721][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:722][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:723][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:723][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:723][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:724][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:724][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:724][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.018 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:725][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.018 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:725][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.018 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:725][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.019 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:726][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.019 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:726][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.019 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:726][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:726][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:727][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:727][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:727][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:728][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:728][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:728][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:728][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:729][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:729][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:729][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.023 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:730][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.023 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:730][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.023 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:730][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.023 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:730][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.024 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:731][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.024 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:731][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.024 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:731][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.025 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:732][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.025 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:732][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.025 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:732][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.025 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:732][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.026 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:733][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.026 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:733][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.026 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:733][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.027 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:734][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.027 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:734][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.027 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:734][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.027 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:734][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.028 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:735][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.028 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:735][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.028 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:735][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.029 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:735][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.029 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:736][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.029 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:736][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.029 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:736][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.030 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:737][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.030 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:737][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.030 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:737][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.031 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:737][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.031 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:738][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.031 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:738][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.032 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:739][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.032 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:739][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.032 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:739][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.033 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:739][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.033 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:740][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.033 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:740][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.033 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:740][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.034 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:741][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.034 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:741][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.034 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:741][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.035 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:742][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.035 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:742][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.035 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:742][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.035 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:742][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.036 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:743][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.036 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:743][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.036 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:743][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.037 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:744][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.037 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:744][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.037 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:744][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.038 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:744][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.038 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:745][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.038 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:745][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.038 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:745][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.039 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:746][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.039 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:746][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.039 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:746][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.040 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:747][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.040 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:747][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.040 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:747][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.040 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:747][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.041 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:748][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.041 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:748][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.041 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:748][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.042 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:749][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.042 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:749][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.042 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:749][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.042 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:749][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.043 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:750][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.043 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:750][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.043 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:750][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.044 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:751][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.044 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:751][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.044 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:751][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.044 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:751][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.045 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:752][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.045 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:752][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.045 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:752][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.046 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:754][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.047 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:754][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.047 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:754][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.048 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:755][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.048 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:755][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.048 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:755][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.049 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:755][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.049 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:756][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.049 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:756][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.049 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:756][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.050 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:757][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.050 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:757][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.050 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:757][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.051 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:757][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.051 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:758][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.051 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:758][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.051 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:758][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.052 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:759][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.052 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:759][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.052 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:759][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.052 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:759][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.053 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:760][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.053 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:760][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.053 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:760][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.054 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:761][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.054 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:761][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.054 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:761][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.055 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:761][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.055 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:762][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.055 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.54:762][266]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.055 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-11.29.56:918][270]LogHttp: Warning: 000002A2126B4F40: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.12.21-11.29.56:919][270]LogHttp: Warning: 000002A2126B4F40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2a2421a3f70 [can pipeline])
+[2020.12.21-11.29.56:921][270]LogHttp: Warning: 000002A2126B4F40: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2020.12.21-11.29.56:923][270]LogHttp: Warning: 000002A2126B4F40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.205.227.176) port 443 (#10))
+[2020.12.21-11.29.56:924][270]LogHttp: Warning: 000002A2126B4F40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.12.21-11.29.56:924][270]LogHttp: Warning: 000002A2126B4F40: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.12.21-11.29.56:924][270]LogHttp: Warning: 000002A2126B4F40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.12.21-11.29.56:924][270]LogHttp: Warning: 000002A2126B4F40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.12.21-11.29.56:924][270]LogHttp: Warning: 000002A2126B4F40: libcurl info message cache 7 (Closing connection 10)
+[2020.12.21-11.29.56:925][270]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0835412F-4C15-D09E-E4DB-24843314F107%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3b369843416e5120deaa89ad21505c3a%7C5bbf166781ac427fb155833d2e667851%7C19c12135-a471-42df-b0f7-b996df67017c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.12.21-12.46.22:392][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:393][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:393][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:394][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:395][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:395][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:395][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:396][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:397][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:398][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:398][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:399][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:399][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:400][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:401][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:401][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:402][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:402][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:403][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:403][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:404][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:405][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:405][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:407][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:408][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:408][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:408][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:408][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:409][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:409][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:409][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.018 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:410][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.018 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:410][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.019 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:411][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.019 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:411][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.019 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:411][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.019 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:411][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:412][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:412][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:413][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:414][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:415][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.023 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:418][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.026 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:418][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.026 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:419][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.027 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:419][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.027 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:419][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.028 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:420][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.028 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:420][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.028 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:421][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.029 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:421][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.029 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:422][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.030 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:422][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.030 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:423][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.031 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:423][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.032 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:424][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.033 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:425][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.033 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:425][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.034 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:426][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.034 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:426][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.034 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:427][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.035 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:427][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.036 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:428][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.036 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:428][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.036 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:429][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.037 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:429][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.037 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:429][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.038 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:431][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.040 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:432][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.040 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:432][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.040 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:432][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.040 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:432][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.041 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:433][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.041 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:433][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.041 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.22:433][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.042 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-12.46.40:674][322]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (18.283 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.21-14.16.47:044][432]LogInit: XAudio2 using 'Headphones (Mixcder E9 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.21-14.17.17:099][ 63]Candidate modules for hot reload:
+[2020.12.21-14.17.17:099][ 63]  BuildingEscape
+[2020.12.21-14.17.17:099][ 63]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,1806 Win64 Development -TargetType=Editor -Project="C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject" "C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.12.21-14.17.17:103][ 63]Warning: Starting HotReload took  0.0s.
+[2020.12.21-14.17.47:401][645]CompilerResultsLog: New page: Compilation - Dec 21, 2020, 2:17:47 PM
+[2020.12.21-14.17.47:402][645]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\programming\udemy_unrealEngine).
+[2020.12.21-14.17.47:402][645]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (ini files are newer than makefile)
+[2020.12.21-14.17.47:402][645]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.12.21-14.17.47:403][645]CompilerResultsLog:   Running UnrealHeaderTool "C:\programming\udemy_unrealEngine\BuildingEscape\BuildingEscape.uproject" "C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.21-14.17.47:403][645]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 10.9249514 seconds
+[2020.12.21-14.17.47:404][645]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.21-14.17.47:404][645]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.12.21-14.17.47:404][645]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2020.12.21-14.17.47:404][645]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-1806.lib
+[2020.12.21-14.17.47:404][645]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1806.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1806.exp
+[2020.12.21-14.17.47:405][645]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-1806.dll
+[2020.12.21-14.17.47:405][645]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1806.suppressed.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-1806.suppressed.exp
+[2020.12.21-14.17.47:406][645]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.12.21-14.17.47:406][645]CompilerResultsLog: Total time in Parallel executor: 13.79 seconds
+[2020.12.21-14.17.47:406][645]CompilerResultsLog: Total execution time: 29.86 seconds
+[2020.12.21-14.17.47:406][645]LogMainFrame: MainFrame: Module compiling took 30.311 seconds
+[2020.12.21-14.17.47:470][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.12.21-14.17.47:514][645]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0033 seconds. Added 2 classes and 2 folders.
+[2020.12.21-14.17.47:518][645]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.21-14.17.47:606][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.12.21-14.17.47:636][645]LogContentBrowser: Native class hierarchy populated in 0.0188 seconds. Added 2735 classes and 663 folders.
+[2020.12.21-14.17.47:637][645]Display: HotReload took 30.5s.
+[2020.12.21-14.28.48:830][726]Candidate modules for hot reload:
+[2020.12.21-14.28.48:830][726]  BuildingEscape
+[2020.12.21-14.28.48:830][726]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,2743 Win64 Development -TargetType=Editor -Project="C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject" "C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.12.21-14.28.48:833][726]Warning: Starting HotReload took  0.0s.
+[2020.12.21-14.29.03:308][543]CompilerResultsLog: New page: Compilation - Dec 21, 2020, 2:29:03 PM
+[2020.12.21-14.29.03:309][543]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\programming\udemy_unrealEngine).
+[2020.12.21-14.29.03:309][543]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.12.21-14.29.03:310][543]CompilerResultsLog:   Running UnrealHeaderTool "C:\programming\udemy_unrealEngine\BuildingEscape\BuildingEscape.uproject" "C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.21-14.29.03:310][543]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 8.3050967 seconds
+[2020.12.21-14.29.03:310][543]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.21-14.29.03:311][543]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.12.21-14.29.03:311][543]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2020.12.21-14.29.03:311][543]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-2743.lib
+[2020.12.21-14.29.03:311][543]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2743.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2743.exp
+[2020.12.21-14.29.03:312][543]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-2743.dll
+[2020.12.21-14.29.03:312][543]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2743.suppressed.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2743.suppressed.exp
+[2020.12.21-14.29.03:313][543]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.12.21-14.29.03:313][543]CompilerResultsLog: Total time in Parallel executor: 4.04 seconds
+[2020.12.21-14.29.03:313][543]CompilerResultsLog: Total execution time: 14.30 seconds
+[2020.12.21-14.29.03:314][543]LogMainFrame: MainFrame: Module compiling took 14.487 seconds
+[2020.12.21-14.29.03:340][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.12.21-14.29.03:369][543]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2020.12.21-14.29.03:373][543]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.21-14.29.03:438][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.12.21-14.29.03:454][543]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2735 classes and 663 folders.
+[2020.12.21-14.29.03:454][543]Display: HotReload took 14.6s.
+[2020.12.21-14.29.06:072][688]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.21-14.29.06:097][688]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.21-14.29.06:098][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.21-14.29.06:098][688]PIE: New page: PIE session: BuildingEscape (Dec 21, 2020, 2:29:06 PM)
+[2020.12.21-14.29.06:098][688]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BuildingEscape
+[2020.12.21-14.29.06:103][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004900s)
+[2020.12.21-14.29.06:105][688]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.12.21-14.29.06:106][688]LogPlayLevel: PIE: World Init took: (0.002316s)
+[2020.12.21-14.29.06:106][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildingEscape.BuildingEscape to /Game/UEDPIE_0_BuildingEscape.BuildingEscape (0.007811s)
+[2020.12.21-14.29.06:133][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.12.21-14.29.06:147][688]LogInit: XAudio2 using 'Headphones (Mixcder E9 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.21-14.29.06:162][688]LogInit: FAudioDevice initialized.
+[2020.12.21-14.29.06:198][688]LogLoad: Game class is 'GameModeBase'
+[2020.12.21-14.29.06:200][688]LogWorld: Bringing World /Game/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.12.21-14.29.06
+[2020.12.21-14.29.06:200][688]LogWorld: Bringing up level for play took: 0.001462
+[2020.12.21-14.29.06:215][688]LogTemp: Warning: Sphere_2
+[2020.12.21-14.29.06:215][688]LogTemp: Warning: X=-220.000 Y=240.000 Z=70.000
+[2020.12.21-14.29.06:215][688]LogTemp: Warning: Cube_5
+[2020.12.21-14.29.06:215][688]LogTemp: Warning: X=60.000 Y=140.000 Z=70.000
+[2020.12.21-14.29.06:216][688]PIE: Play in editor start time for /Game/UEDPIE_0_BuildingEscape -0.836
+[2020.12.21-14.29.06:216][688]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.21-14.29.16:718][314]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.21-14.29.16:718][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.21-14.29.16:751][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.21-14.29.16:751][314]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.21-14.29.16:783][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.21-14.29.16:786][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.12.21-14.29.16:818][316]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.12.21-14.31.06:777][766]Candidate modules for hot reload:
+[2020.12.21-14.31.06:777][766]  BuildingEscape
+[2020.12.21-14.31.06:777][766]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,8083 Win64 Development -TargetType=Editor -Project="C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject" "C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.12.21-14.31.06:782][766]Warning: Starting HotReload took  0.0s.
+[2020.12.21-14.31.29:063][  9]CompilerResultsLog: New page: Compilation - Dec 21, 2020, 2:31:29 PM
+[2020.12.21-14.31.29:064][  9]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\programming\udemy_unrealEngine).
+[2020.12.21-14.31.29:064][  9]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (ini files are newer than makefile)
+[2020.12.21-14.31.29:064][  9]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.12.21-14.31.29:064][  9]CompilerResultsLog:   Running UnrealHeaderTool "C:\programming\udemy_unrealEngine\BuildingEscape\BuildingEscape.uproject" "C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.21-14.31.29:065][  9]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 9.1933596 seconds
+[2020.12.21-14.31.29:065][  9]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.21-14.31.29:065][  9]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.12.21-14.31.29:065][  9]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2020.12.21-14.31.29:065][  9]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-8083.lib
+[2020.12.21-14.31.29:065][  9]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8083.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8083.exp
+[2020.12.21-14.31.29:066][  9]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-8083.dll
+[2020.12.21-14.31.29:066][  9]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8083.suppressed.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8083.suppressed.exp
+[2020.12.21-14.31.29:067][  9]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.12.21-14.31.29:067][  9]CompilerResultsLog: Total time in Parallel executor: 8.64 seconds
+[2020.12.21-14.31.29:067][  9]CompilerResultsLog: Total execution time: 22.07 seconds
+[2020.12.21-14.31.29:067][  9]LogMainFrame: MainFrame: Module compiling took 22.294 seconds
+[2020.12.21-14.31.29:096][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.12.21-14.31.29:136][  9]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0009 seconds. Added 2 classes and 2 folders.
+[2020.12.21-14.31.29:140][  9]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.21-14.31.29:211][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.12.21-14.31.29:229][  9]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 2735 classes and 663 folders.
+[2020.12.21-14.31.29:229][  9]Display: HotReload took 22.5s.
+[2020.12.21-14.31.31:150][115]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.21-14.31.31:170][115]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.21-14.31.31:170][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.21-14.31.31:171][115]PIE: New page: PIE session: BuildingEscape (Dec 21, 2020, 2:31:31 PM)
+[2020.12.21-14.31.31:171][115]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BuildingEscape
+[2020.12.21-14.31.31:174][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002878s)
+[2020.12.21-14.31.31:175][115]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.12.21-14.31.31:175][115]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2020.12.21-14.31.31:176][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildingEscape.BuildingEscape to /Game/UEDPIE_0_BuildingEscape.BuildingEscape (0.004781s)
+[2020.12.21-14.31.31:203][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.12.21-14.31.31:217][115]LogInit: XAudio2 using 'Headphones (Mixcder E9 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.21-14.31.31:233][115]LogInit: FAudioDevice initialized.
+[2020.12.21-14.31.31:262][115]LogLoad: Game class is 'GameModeBase'
+[2020.12.21-14.31.31:263][115]LogWorld: Bringing World /Game/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.12.21-14.31.31
+[2020.12.21-14.31.31:264][115]LogWorld: Bringing up level for play took: 0.000909
+[2020.12.21-14.31.31:277][115]LogTemp: Warning: Sphere_2 names position in the world is:X=-220.000 Y=240.000 Z=70.000
+[2020.12.21-14.31.31:277][115]LogTemp: Warning: Cube_5 names position in the world is:X=60.000 Y=140.000 Z=70.000
+[2020.12.21-14.31.31:278][115]PIE: Play in editor start time for /Game/UEDPIE_0_BuildingEscape 0.226
+[2020.12.21-14.31.31:278][115]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.21-14.31.38:359][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.21-14.31.38:361][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.21-14.31.38:395][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.21-14.31.38:395][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.21-14.31.38:427][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.21-14.31.38:430][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.12.21-14.31.38:462][537]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.12.21-14.31.40:339][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.12.21-14.31.47:582][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.12.21-20.17.05:933][747]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{55653971-f87d-4758-bedf-74275c23db9e} was removed. Shutting down audio device.
+[2020.12.21-20.17.05:933][747]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.21-22.59.16:511][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.21-22.59.16:680][768]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.12.21-22.59.16:770][768]LogSlate: Window 'BuildingEscape - Unreal Editor' being destroyed
+[2020.12.21-22.59.16:775][768]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.21-22.59.17:132][769]Cmd: QUIT_EDITOR
+[2020.12.21-22.59.17:541][769]LogExit: Preparing to exit.
+[2020.12.21-22.59.18:359][769]LogExit: Editor shut down
+[2020.12.21-22.59.18:360][769]LogExit: Transaction tracking system shut down
+[2020.12.21-22.59.18:845][769]LogExit: Object subsystem successfully closed.
+[2020.12.21-22.59.18:890][769]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.12.21-22.59.18:905][769]LogD3D11RHI: Shutdown
+[2020.12.21-22.59.18:905][769]LogD3D11RHI: CleanupD3DDevice
+[2020.12.21-22.59.18:909][769]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.12.21-22.59.18:909][769]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.12.21-22.59.18:910][769]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.12.21-22.59.18:910][769]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.12.21-22.59.18:910][769]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.12.21-22.59.18:910][769]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.12.21-22.59.19:071][769]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.12.21-22.59.19:163][769]LogModuleManager: Shutting down and abandoning module BuildingEscape (654)
+[2020.12.21-22.59.19:164][769]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (651)
+[2020.12.21-22.59.19:164][769]LogModuleManager: Shutting down and abandoning module Voice (649)
+[2020.12.21-22.59.19:164][769]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2020.12.21-22.59.19:164][769]LogModuleManager: Shutting down and abandoning module SceneOutliner (644)
+[2020.12.21-22.59.19:164][769]LogModuleManager: Shutting down and abandoning module AddContentDialog (642)
+[2020.12.21-22.59.19:169][769]LogModuleManager: Shutting down and abandoning module WidgetCarousel (641)
+[2020.12.21-22.59.19:169][769]LogModuleManager: Shutting down and abandoning module EditorWidgets (638)
+[2020.12.21-22.59.19:169][769]LogModuleManager: Shutting down and abandoning module CollectionManager (636)
+[2020.12.21-22.59.19:169][769]LogModuleManager: Shutting down and abandoning module StatsViewer (634)
+[2020.12.21-22.59.19:170][769]LogModuleManager: Shutting down and abandoning module FoliageEdit (632)
+[2020.12.21-22.59.19:170][769]LogModuleManager: Shutting down and abandoning module LandscapeEditor (630)
+[2020.12.21-22.59.19:171][769]LogModuleManager: Shutting down and abandoning module MeshPaintMode (628)
+[2020.12.21-22.59.19:172][769]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (626)
+[2020.12.21-22.59.19:172][769]LogModuleManager: Shutting down and abandoning module ActorPickerMode (624)
+[2020.12.21-22.59.19:172][769]LogModuleManager: Shutting down and abandoning module GeometryMode (622)
+[2020.12.21-22.59.19:172][769]LogModuleManager: Shutting down and abandoning module TextureAlignMode (620)
+[2020.12.21-22.59.19:172][769]LogModuleManager: Shutting down and abandoning module BspMode (618)
+[2020.12.21-22.59.19:172][769]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (616)
+[2020.12.21-22.59.19:173][769]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (614)
+[2020.12.21-22.59.19:174][769]LogModuleManager: Shutting down and abandoning module AutomationWorker (612)
+[2020.12.21-22.59.19:174][769]LogModuleManager: Shutting down and abandoning module OculusMR (610)
+[2020.12.21-22.59.19:174][769]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (608)
+[2020.12.21-22.59.19:174][769]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (606)
+[2020.12.21-22.59.19:175][769]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (604)
+[2020.12.21-22.59.19:177][769]LogModuleManager: Shutting down and abandoning module PlacementMode (603)
+[2020.12.21-22.59.19:177][769]LogModuleManager: Shutting down and abandoning module MaterialEditor (602)
+[2020.12.21-22.59.19:178][769]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (598)
+[2020.12.21-22.59.19:179][769]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (596)
+[2020.12.21-22.59.19:179][769]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (594)
+[2020.12.21-22.59.19:179][769]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (592)
+[2020.12.21-22.59.19:179][769]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (590)
+[2020.12.21-22.59.19:179][769]LogModuleManager: Shutting down and abandoning module WebMMedia (588)
+[2020.12.21-22.59.19:180][769]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (586)
+[2020.12.21-22.59.19:180][769]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (584)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module SequenceRecorder (583)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (580)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (578)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (576)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (574)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (572)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (570)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (568)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (566)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (564)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (562)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (560)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module CharacterAI (558)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module SmartSnapping (556)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module SessionServices (554)
+[2020.12.21-22.59.19:181][769]LogModuleManager: Shutting down and abandoning module MeshPaint (552)
+[2020.12.21-22.59.19:182][769]LogModuleManager: Shutting down and abandoning module ViewportSnapping (550)
+[2020.12.21-22.59.19:182][769]LogModuleManager: Shutting down and abandoning module ViewportInteraction (548)
+[2020.12.21-22.59.19:182][769]LogModuleManager: Shutting down and abandoning module ClothPainter (546)
+[2020.12.21-22.59.19:183][769]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (545)
+[2020.12.21-22.59.19:184][769]LogModuleManager: Shutting down and abandoning module LogVisualizer (542)
+[2020.12.21-22.59.19:185][769]LogModuleManager: Shutting down and abandoning module IntroTutorials (540)
+[2020.12.21-22.59.19:187][769]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (539)
+[2020.12.21-22.59.19:187][769]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (536)
+[2020.12.21-22.59.19:187][769]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (534)
+[2020.12.21-22.59.19:188][769]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (532)
+[2020.12.21-22.59.19:188][769]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (530)
+[2020.12.21-22.59.19:188][769]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (529)
+[2020.12.21-22.59.20:128][769]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (526)
+[2020.12.21-22.59.20:128][769]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (524)
+[2020.12.21-22.59.20:128][769]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (522)
+[2020.12.21-22.59.20:128][769]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (520)
+[2020.12.21-22.59.20:128][769]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (518)
+[2020.12.21-22.59.20:128][769]LogModuleManager: Shutting down and abandoning module InputBindingEditor (516)
+[2020.12.21-22.59.20:128][769]LogModuleManager: Shutting down and abandoning module MergeActors (514)
+[2020.12.21-22.59.20:129][769]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (512)
+[2020.12.21-22.59.20:130][769]LogModuleManager: Shutting down and abandoning module LocalizationService (511)
+[2020.12.21-22.59.20:130][769]LogModuleManager: Shutting down and abandoning module HardwareTargeting (508)
+[2020.12.21-22.59.20:130][769]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (506)
+[2020.12.21-22.59.20:130][769]LogModuleManager: Shutting down and abandoning module UndoHistory (504)
+[2020.12.21-22.59.20:131][769]LogModuleManager: Shutting down and abandoning module XmlParser (502)
+[2020.12.21-22.59.20:131][769]LogModuleManager: Shutting down and abandoning module Blutility (500)
+[2020.12.21-22.59.20:132][769]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (498)
+[2020.12.21-22.59.20:132][769]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (497)
+[2020.12.21-22.59.20:132][769]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (494)
+[2020.12.21-22.59.20:132][769]LogModuleManager: Shutting down and abandoning module SettingsEditor (492)
+[2020.12.21-22.59.20:133][769]LogModuleManager: Shutting down and abandoning module ProjectLauncher (490)
+[2020.12.21-22.59.20:134][769]LogModuleManager: Shutting down and abandoning module SessionFrontend (488)
+[2020.12.21-22.59.20:135][769]LogModuleManager: Shutting down and abandoning module ProfilerClient (486)
+[2020.12.21-22.59.20:135][769]LogModuleManager: Shutting down and abandoning module DeviceManager (484)
+[2020.12.21-22.59.20:136][769]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (483)
+[2020.12.21-22.59.20:169][769]LogModuleManager: Shutting down and abandoning module AutomationController (480)
+[2020.12.21-22.59.20:170][769]LogModuleManager: Shutting down and abandoning module AutomationWindow (478)
+[2020.12.21-22.59.20:171][769]LogModuleManager: Shutting down and abandoning module Layers (476)
+[2020.12.21-22.59.20:173][769]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (474)
+[2020.12.21-22.59.20:173][769]LogModuleManager: Shutting down and abandoning module DetailCustomizations (472)
+[2020.12.21-22.59.20:173][769]LogModuleManager: Shutting down and abandoning module PackagesDialog (470)
+[2020.12.21-22.59.20:174][769]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (468)
+[2020.12.21-22.59.20:176][769]LogModuleManager: Shutting down and abandoning module Persona (466)
+[2020.12.21-22.59.20:177][769]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (465)
+[2020.12.21-22.59.20:177][769]LogModuleManager: Shutting down and abandoning module AnimGraph (463)
+[2020.12.21-22.59.20:177][769]LogModuleManager: Shutting down and abandoning module Kismet (460)
+[2020.12.21-22.59.20:178][769]LogModuleManager: Shutting down and abandoning module GraphEditor (458)
+[2020.12.21-22.59.20:180][769]LogModuleManager: Shutting down and abandoning module ClassViewer (456)
+[2020.12.21-22.59.20:180][769]LogModuleManager: Shutting down and abandoning module Toolbox (454)
+[2020.12.21-22.59.20:180][769]LogModuleManager: Shutting down and abandoning module DesktopPlatform (453)
+[2020.12.21-22.59.20:181][769]LogModuleManager: Shutting down and abandoning module ModuleUI (450)
+[2020.12.21-22.59.20:181][769]LogModuleManager: Shutting down and abandoning module MovieSceneTools (448)
+[2020.12.21-22.59.20:182][769]LogModuleManager: Shutting down and abandoning module OutputLog (446)
+[2020.12.21-22.59.20:182][769]LogModuleManager: Shutting down and abandoning module GammaUI (444)
+[2020.12.21-22.59.20:183][769]LogModuleManager: Shutting down and abandoning module Documentation (442)
+[2020.12.21-22.59.20:183][769]LogModuleManager: Shutting down and abandoning module LiveCoding (440)
+[2020.12.21-22.59.20:184][769]LogModuleManager: Shutting down and abandoning module LevelSequence (438)
+[2020.12.21-22.59.20:184][769]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (436)
+[2020.12.21-22.59.20:184][769]LogModuleManager: Shutting down and abandoning module MovieScene (434)
+[2020.12.21-22.59.20:185][769]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (432)
+[2020.12.21-22.59.20:185][769]LogModuleManager: Shutting down and abandoning module LauncherPlatform (430)
+[2020.12.21-22.59.20:185][769]LogModuleManager: Shutting down and abandoning module AnalyticsET (428)
+[2020.12.21-22.59.20:185][769]LogModuleManager: Shutting down and abandoning module PortalServices (426)
+[2020.12.21-22.59.20:185][769]LogModuleManager: Shutting down and abandoning module PortalRpc (424)
+[2020.12.21-22.59.20:185][769]LogModuleManager: Shutting down and abandoning module MessagingRpc (422)
+[2020.12.21-22.59.20:185][769]LogModuleManager: Shutting down and abandoning module AIModule (420)
+[2020.12.21-22.59.20:186][769]LogModuleManager: Shutting down and abandoning module GameplayDebugger (419)
+[2020.12.21-22.59.20:186][769]LogModuleManager: Shutting down and abandoning module AITestSuite (417)
+[2020.12.21-22.59.20:186][769]LogModuleManager: Shutting down and abandoning module NavigationSystem (415)
+[2020.12.21-22.59.20:186][769]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (412)
+[2020.12.21-22.59.20:190][769]LogModuleManager: Shutting down and abandoning module ProfilerService (410)
+[2020.12.21-22.59.20:312][769]LogModuleManager: Shutting down and abandoning module TaskGraph (408)
+[2020.12.21-22.59.20:313][769]LogModuleManager: Shutting down and abandoning module SteamVRController (406)
+[2020.12.21-22.59.20:313][769]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (404)
+[2020.12.21-22.59.20:314][769]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (402)
+[2020.12.21-22.59.20:314][769]LogModuleManager: Shutting down and abandoning module OculusEditor (400)
+[2020.12.21-22.59.20:315][769]LogModuleManager: Shutting down and abandoning module OculusInput (398)
+[2020.12.21-22.59.20:315][769]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (396)
+[2020.12.21-22.59.20:315][769]LogModuleManager: Shutting down and abandoning module EditableMesh (394)
+[2020.12.21-22.59.20:315][769]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (392)
+[2020.12.21-22.59.20:315][769]LogModuleManager: Shutting down and abandoning module CableComponent (390)
+[2020.12.21-22.59.20:315][769]LogModuleManager: Shutting down and abandoning module AudioCapture (388)
+[2020.12.21-22.59.20:316][769]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (386)
+[2020.12.21-22.59.20:316][769]LogModuleManager: Shutting down and abandoning module AndroidPermission (384)
+[2020.12.21-22.59.20:316][769]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (382)
+[2020.12.21-22.59.20:316][769]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (380)
+[2020.12.21-22.59.20:317][769]LogModuleManager: Shutting down and abandoning module MediaCompositing (378)
+[2020.12.21-22.59.20:317][769]LogModuleManager: Shutting down and abandoning module LinearTimecode (376)
+[2020.12.21-22.59.20:317][769]LogModuleManager: Shutting down and abandoning module ImgMedia (374)
+[2020.12.21-22.59.20:317][769]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (372)
+[2020.12.21-22.59.20:317][769]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2020.12.21-22.59.20:317][769]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2020.12.21-22.59.20:318][769]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2020.12.21-22.59.20:318][769]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.12.21-22.59.20:318][769]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.12.21-22.59.20:318][769]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.12.21-22.59.20:318][769]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.12.21-22.59.20:318][769]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.12.21-22.59.20:318][769]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.12.21-22.59.20:318][769]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.12.21-22.59.20:318][769]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.12.21-22.59.20:318][769]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.12.21-22.59.20:318][769]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.12.21-22.59.20:318][769]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.12.21-22.59.20:318][769]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.12.21-22.59.20:319][769]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.12.21-22.59.20:320][769]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.12.21-22.59.20:320][769]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.12.21-22.59.20:322][769]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.12.21-22.59.20:323][769]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2020.12.21-22.59.20:324][769]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2020.12.21-22.59.20:324][769]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2020.12.21-22.59.20:324][769]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2020.12.21-22.59.20:324][769]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2020.12.21-22.59.20:324][769]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2020.12.21-22.59.20:324][769]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2020.12.21-22.59.20:325][769]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2020.12.21-22.59.20:327][769]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2020.12.21-22.59.20:327][769]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2020.12.21-22.59.20:328][769]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2020.12.21-22.59.20:328][769]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2020.12.21-22.59.20:328][769]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.12.21-22.59.20:328][769]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.12.21-22.59.20:328][769]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.12.21-22.59.20:328][769]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.12.21-22.59.20:328][769]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.12.21-22.59.20:328][769]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.12.21-22.59.20:330][769]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.12.21-22.59.20:330][769]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.12.21-22.59.20:330][769]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.12.21-22.59.20:330][769]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.12.21-22.59.20:330][769]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.12.21-22.59.20:330][769]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.12.21-22.59.20:330][769]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.12.21-22.59.20:546][769]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.12.21-22.59.20:647][769]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.12.21-22.59.20:647][769]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.12.21-22.59.20:647][769]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.12.21-22.59.20:648][769]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.12.21-22.59.20:648][769]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.12.21-22.59.20:649][769]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.12.21-22.59.20:649][769]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.12.21-22.59.20:649][769]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.12.21-22.59.20:649][769]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.12.21-22.59.20:649][769]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.12.21-22.59.20:649][769]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.12.21-22.59.20:649][769]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.12.21-22.59.20:650][769]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.12.21-22.59.20:650][769]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.12.21-22.59.20:655][769]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.12.21-22.59.20:655][769]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.12.21-22.59.20:655][769]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.12.21-22.59.20:655][769]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.12.21-22.59.20:656][769]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.12.21-22.59.20:659][769]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.12.21-22.59.20:659][769]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.12.21-22.59.20:659][769]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.12.21-22.59.20:659][769]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.12.21-22.59.20:659][769]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.12.21-22.59.20:660][769]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.12.21-22.59.20:660][769]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.12.21-22.59.20:662][769]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.12.21-22.59.20:662][769]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.12.21-22.59.20:662][769]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.12.21-22.59.20:665][769]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.12.21-22.59.20:665][769]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.12.21-22.59.20:665][769]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.12.21-22.59.20:665][769]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.12.21-22.59.20:666][769]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.12.21-22.59.20:667][769]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.12.21-22.59.20:667][769]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.12.21-22.59.20:669][769]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.12.21-22.59.20:670][769]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.12.21-22.59.20:672][769]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.12.21-22.59.20:673][769]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.12.21-22.59.20:674][769]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.12.21-22.59.20:675][769]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.12.21-22.59.20:678][769]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.12.21-22.59.20:678][769]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.12.21-22.59.20:681][769]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.12.21-22.59.20:681][769]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.12.21-22.59.20:687][769]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.12.21-22.59.20:687][769]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.12.21-22.59.20:687][769]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.12.21-22.59.20:687][769]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.12.21-22.59.20:687][769]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.12.21-22.59.20:687][769]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.12.21-22.59.20:687][769]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.12.21-22.59.20:687][769]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.12.21-22.59.20:687][769]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.12.21-22.59.20:687][769]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.12.21-22.59.20:688][769]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.12.21-22.59.20:688][769]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.12.21-22.59.20:688][769]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.12.21-22.59.20:689][769]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.12.21-22.59.20:690][769]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.12.21-22.59.20:690][769]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.12.21-22.59.20:749][769]LogDerivedDataCache: Shutdown
+[2020.12.21-22.59.20:749][769]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.12.21-22.59.20:749][769]LogXGEController: Cleaning working directory: C:/Users/spg00/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.21-22.59.20:749][769]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.12.21-22.59.20:750][769]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.12.21-22.59.20:750][769]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.12.21-22.59.20:751][769]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.12.21-22.59.20:751][769]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.12.21-22.59.20:752][769]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.12.21-22.59.20:752][769]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.12.21-22.59.20:752][769]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.12.21-22.59.20:752][769]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.12.21-22.59.20:753][769]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.12.21-22.59.20:753][769]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.12.21-22.59.20:753][769]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.12.21-22.59.20:753][769]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.12.21-22.59.20:753][769]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.12.21-22.59.20:754][769]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.12.21-22.59.20:754][769]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.12.21-22.59.20:754][769]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.12.21-22.59.20:768][769]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.12.21-22.59.20:768][769]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.12.21-22.59.20:769][769]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.12.21-22.59.20:769][769]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.12.21-22.59.20:769][769]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.12.21-22.59.20:778][769]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.12.21-22.59.20:778][769]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.12.21-22.59.20:784][769]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.12.21-22.59.20:784][769]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.12.21-22.59.20:834][769]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.12.21-22.59.20:834][769]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.12.21-22.59.20:834][769]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.12.21-22.59.20:834][769]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.12.21-22.59.20:834][769]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.12.21-22.59.20:834][769]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.12.21-22.59.20:834][769]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.12.21-22.59.20:834][769]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.12.21-22.59.20:834][769]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.12.21-22.59.20:834][769]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.12.21-22.59.20:834][769]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.12.21-22.59.20:834][769]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.12.21-22.59.20:836][769]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.12.21-22.59.20:836][769]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.12.21-22.59.20:837][769]LogHMD: Freeing OpenVRDLLHandle.
+[2020.12.21-22.59.20:837][769]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.12.21-22.59.20:837][769]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.12.21-22.59.20:837][769]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.12.21-22.59.20:837][769]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.12.21-22.59.20:837][769]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.12.21-22.59.20:838][769]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.12.21-22.59.20:839][769]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.12.21-22.59.20:859][769]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.12.21-22.59.20:859][769]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.12.21-22.59.20:859][769]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0835412F-4C15-D09E-E4DB-24843314F107%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3b369843416e5120deaa89ad21505c3a%7C5bbf166781ac427fb155833d2e667851%7C19c12135-a471-42df-b0f7-b996df67017c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.12.21-22.59.20:886][769]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.12.21-22.59.20:889][769]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.12.21-22.59.20:891][769]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.12.21-22.59.20:897][769]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.12.21-22.59.20:898][769]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.12.21-22.59.20:898][769]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.12.21-22.59.20:899][769]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.12.21-22.59.20:900][769]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.12.21-22.59.20:902][769]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.12.21-22.59.20:902][769]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.12.21-22.59.20:902][769]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.12.21-22.59.20:902][769]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.12.21-22.59.20:904][769]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.12.21-22.59.20:905][769]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.12.21-22.59.20:905][769]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.12.21-22.59.20:906][769]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.12.21-22.59.20:906][769]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.12.21-22.59.20:906][769]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.12.21-22.59.20:906][769]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.12.21-22.59.20:906][769]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.12.21-22.59.20:906][769]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.12.21-22.59.20:907][769]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.12.21-22.59.20:907][769]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.12.21-22.59.20:907][769]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.12.21-22.59.20:918][769]LogExit: Exiting.
+[2020.12.21-22.59.20:931][769]Log file closed, 12/21/20 22:59:20
