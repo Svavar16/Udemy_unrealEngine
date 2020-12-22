@@ -838,3 +838,932 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.22-14.26.59:693][449]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.175
 [2020.12.22-14.26.59:693][449]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.175
 [2020.12.22-14.27.56:547][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.22-14.37.00:014][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.12.22-14.37.00:015][881]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.033
+[2020.12.22-14.47.00:500][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.12.22-14.47.00:500][673]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.032
+[2020.12.22-14.57.01:054][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.12.22-14.57.01:055][465]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.031
+[2020.12.22-15.07.01:549][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.12.22-15.07.01:549][257]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.027
+[2020.12.22-15.17.01:996][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.22-15.17.01:996][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.030
+[2020.12.22-15.27.02:420][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.12.22-15.27.02:420][841]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.027
+[2020.12.22-15.37.03:272][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.22-15.37.03:272][623]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.030
+[2020.12.22-15.47.03:728][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.22-15.47.03:728][402]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.040
+[2020.12.22-15.57.04:150][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.22-15.57.04:150][194]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.034
+[2020.12.22-16.07.04:666][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.22-16.07.04:666][986]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.026
+[2020.12.22-16.17.05:141][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.12.22-16.17.05:141][778]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.033
+[2020.12.22-16.27.05:577][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.12.22-16.27.05:577][570]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.024
+[2020.12.22-16.37.06:164][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.12.22-16.37.06:164][359]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.034
+[2020.12.22-16.47.06:741][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.22-16.47.06:742][151]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.026
+[2020.12.22-16.57.07:431][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.12.22-16.57.07:431][944]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.032
+[2020.12.22-17.07.08:088][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.12.22-17.07.08:089][733]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.027
+[2020.12.22-17.17.08:696][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.12.22-17.17.08:696][523]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.038
+[2020.12.22-17.27.09:266][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.22-17.27.09:266][316]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.026
+[2020.12.22-17.37.09:718][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.12.22-17.37.09:718][106]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.034
+[2020.12.22-17.45.43:849][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-17.45.51:104][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.45.53:918][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-17.45.58:995][589]Cmd: EDCALLBACK SURFPROPS
+[2020.12.22-17.46.21:369][854]Cmd: TRANSACTION UNDO
+[2020.12.22-17.46.21:369][854]LogEditorTransaction: Undo Move Actors
+[2020.12.22-17.46.21:602][864]Cmd: TRANSACTION UNDO
+[2020.12.22-17.46.21:602][864]LogEditorTransaction: Undo Modifier [Edit]
+[2020.12.22-17.46.22:181][895]Cmd: TRANSACTION UNDO
+[2020.12.22-17.46.22:181][895]LogEditorTransaction: Undo Move Actors
+[2020.12.22-17.46.22:185][895]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.12.22-17.46.22:185][895]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.12.22-17.46.22:185][895]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.22-17.46.34:752][599]Cmd: SELECT NONE
+[2020.12.22-17.46.37:139][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-17.46.38:871][828]Cmd: SELECT NONE
+[2020.12.22-17.46.50:681][492]Cmd: EDCALLBACK SURFPROPS
+[2020.12.22-17.47.07:328][461]Cmd: TRANSACTION UNDO
+[2020.12.22-17.47.07:328][461]LogEditorTransaction: Undo Move Actors
+[2020.12.22-17.47.07:330][461]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.12.22-17.47.07:330][461]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.12.22-17.47.07:331][461]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.22-17.47.19:549][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-17.47.20:965][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.48.07:031][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.48.54:450][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.49.13:516][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-17.49.15:626][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.49.19:163][979]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.22-17.49.23:001][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.49.55:811][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Frame2)
+[2020.12.22-17.49.56:971][205]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.12.22-17.49.59:989][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.50.03:825][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-17.50.05:101][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-17.50.05:532][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Frame2)
+[2020.12.22-17.50.07:549][818]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.12.22-17.50.11:581][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-17.50.21:403][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-17.50.46:354][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.50.59:545][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-17.51.23:555][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-17.51.25:691][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.51.25:775][698]MapCheck: New page: Map Check
+[2020.12.22-17.51.25:790][698]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.22-17.51.25:803][698]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.22-17.51.25:818][698]LogEditorServer: Cleared 7 NULL BSP materials after rebuild.
+[2020.12.22-17.51.25:855][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.12.22-17.51.25:875][698]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-17.51.25:886][698]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-17.51.25:897][698]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-17.51.25:908][698]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-17.51.25:919][698]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-17.51.25:946][698]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.12.22-17.51.30:597][698]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.12.22-17.51.30:597][698]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.12.22-17.51.30:597][698]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.12.22-17.51.30:597][698]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.12.22-17.51.30:597][698]TextureStreamingBuild: Display: Compiling optional shaders took 4.727 seconds.
+[2020.12.22-17.51.30:607][698]LogLevel: Display: Export Material TexCoord Scales took 0.010 seconds.
+[2020.12.22-17.51.30:622][698]TextureStreamingBuild: Display: Build Texture Streaming took 0.014 seconds.
+[2020.12.22-17.51.30:647][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.12.22-17.51.30:648][698]LightingResults: New page: Lighting Build - Dec 22, 2020, 5:51:30 PM
+[2020.12.22-17.51.30:665][698]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.22-17.51.30:671][698]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.22-17.51.30:672][698]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.22-17.51.30:674][698]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.22-17.51.30:674][698]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9112
+[2020.12.22-17.51.35:307][698]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.12.22-17.51.35:309][698]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.22-17.51.35:309][698]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.22-17.51.35:309][698]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.22-17.51.35:309][698]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.22-17.51.35:309][698]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.22-17.51.35:543][698]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.12.22-17.51.35:543][698]MapCheck: New page: BuildingEscape - Dec 22, 2020, 5:51:35 PM
+[2020.12.22-17.51.35:555][698]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.12.22-17.51.35:557][698]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 13.315ms to complete.
+[2020.12.22-17.51.35:582][698]LogEditorBuildUtils: Build time 0:09
+[2020.12.22-17.51.36:117][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.12.22-17.51.38:759][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.22-17.51.38:963][774]LogSavePackage: Moving '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Saved/BuildingEscape_Auto480D1491942D3D2249A829C822B812BF2.tmp' to '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Saved/Autosaves/Game/Levels/BuildingEscape_Auto4.umap'
+[2020.12.22-17.51.38:970][774]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BuildingEscape' took 0.239
+[2020.12.22-17.51.38:971][774]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.239
+[2020.12.22-17.51.39:012][775]Job is a success!
+[2020.12.22-17.51.39:265][776]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2020.12.22-17.51.39:265][776]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.22-17.51.39:265][776]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2020.12.22-17.51.39:265][776]LogVolumetricLightmapImport:      Bricks at Level
+[2020.12.22-17.51.39:265][776]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.12.22-17.51.39:265][776]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.12.22-17.51.39:265][776]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.12.22-17.51.39:458][776]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.12.22-17.51.39:458][776]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.12.22-17.51.39:458][776]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.12.22-17.51.39:458][776]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.12.22-17.51.39:458][776]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.12.22-17.51.39:458][776]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.12.22-17.51.39:458][776]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X128)
+[2020.12.22-17.51.39:458][776]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2020.12.22-17.51.39:458][776]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 64X256)
+[2020.12.22-17.51.39:490][776]LogStaticLightingSystem: BuildingEscape_BuiltData storing lightmap data for 10 meshes in 3 LightmapResourceClusters (3.3 Meshes per cluster).
+[2020.12.22-17.51.39:524][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.12.22-17.51.39:543][776]LogStaticLightingSystem: Illumination: 8.76 sec (122 ms encoding lightmaps, 32 ms encoding shadowmaps)
+[2020.12.22-17.51.39:543][776]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.1 MB streaming, 0.5 MB non-streaming), 6 textures
+[2020.12.22-17.51.39:543][776]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.12.22-17.51.40:319][776]DumpUnbuiltLightIteractions
+[2020.12.22-17.51.40:319][776]Lights with unbuilt interactions: 0
+[2020.12.22-17.51.40:319][776]
+[2020.12.22-17.51.40:319][776]Primitives with unbuilt interactions: 0
+[2020.12.22-17.51.40:548][777]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.22-17.51.40:548][777]MapCheck: New page: BuildingEscape - Dec 22, 2020, 5:51:40 PM
+[2020.12.22-17.51.40:549][777]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.476ms to complete.
+[2020.12.22-17.51.43:715][944]LogSlate: Window 'Message Log' being destroyed
+[2020.12.22-17.51.43:720][944]LogSlate: Window 'Message Log' being destroyed
+[2020.12.22-17.52.16:239][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.12.22-17.52.17:606][967]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2x1_Door_and_Frame_Frame2)
+[2020.12.22-17.52.20:439][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.52.25:296][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.52.51:466][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Frame2)
+[2020.12.22-17.52.52:270][987]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2020.12.22-17.52.53:983][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.12.22-17.52.54:462][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.12.22-17.52.55:085][128]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2x1_Door_and_Frame_Frame2)
+[2020.12.22-17.53.50:852][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.53.50:925][391]Candidate modules for hot reload:
+[2020.12.22-17.53.50:925][391]  BuildingEscape
+[2020.12.22-17.53.50:926][391]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,599 Win64 Development -TargetType=Editor -Project="C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject" "C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.12.22-17.53.50:929][391]Warning: Starting HotReload took  0.0s.
+[2020.12.22-17.54.08:443][338]CompilerResultsLog: New page: Compilation - Dec 22, 2020, 5:54:08 PM
+[2020.12.22-17.54.08:443][338]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\programming\udemy_unrealEngine).
+[2020.12.22-17.54.08:444][338]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (ini files are newer than makefile)
+[2020.12.22-17.54.08:444][338]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.12.22-17.54.08:444][338]CompilerResultsLog:   Running UnrealHeaderTool "C:\programming\udemy_unrealEngine\BuildingEscape\BuildingEscape.uproject" "C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.22-17.54.08:444][338]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 9.8332743 seconds
+[2020.12.22-17.54.08:444][338]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.22-17.54.08:444][338]CompilerResultsLog: Building 3 actions with 4 processes...
+[2020.12.22-17.54.08:444][338]CompilerResultsLog:   [1/3] UE4Editor-BuildingEscape-0599.lib
+[2020.12.22-17.54.08:444][338]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0599.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0599.exp
+[2020.12.22-17.54.08:444][338]CompilerResultsLog:   [2/3] UE4Editor-BuildingEscape-0599.dll
+[2020.12.22-17.54.08:444][338]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0599.suppressed.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0599.suppressed.exp
+[2020.12.22-17.54.08:444][338]CompilerResultsLog:   [3/3] BuildingEscapeEditor.target
+[2020.12.22-17.54.08:444][338]CompilerResultsLog: Total time in Parallel executor: 2.98 seconds
+[2020.12.22-17.54.08:444][338]CompilerResultsLog: Total execution time: 17.29 seconds
+[2020.12.22-17.54.08:444][338]LogMainFrame: MainFrame: Module compiling took 17.524 seconds
+[2020.12.22-17.54.08:476][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.12.22-17.54.08:508][338]LogContentBrowser: Native class hierarchy populated in 0.0178 seconds. Added 2735 classes and 663 folders.
+[2020.12.22-17.54.08:508][338]Display: HotReload took 17.6s.
+[2020.12.22-17.54.10:585][462]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.22-17.54.10:610][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-17.54.10:610][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.22-17.54.10:610][462]PIE: New page: PIE session: BuildingEscape (Dec 22, 2020, 5:54:10 PM)
+[2020.12.22-17.54.10:610][462]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BuildingEscape
+[2020.12.22-17.54.10:624][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013509s)
+[2020.12.22-17.54.10:625][462]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.12.22-17.54.10:626][462]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2020.12.22-17.54.10:626][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BuildingEscape.BuildingEscape to /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape (0.015802s)
+[2020.12.22-17.54.10:654][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.12.22-17.54.10:671][462]LogInit: XAudio2 using 'Headphones (Mixcder E9 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.22-17.54.10:686][462]LogInit: FAudioDevice initialized.
+[2020.12.22-17.54.10:725][462]LogLoad: Game class is 'GameModeBase'
+[2020.12.22-17.54.10:728][462]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.12.22-17.54.10
+[2020.12.22-17.54.10:728][462]LogWorld: Bringing up level for play took: 0.001463
+[2020.12.22-17.54.10:743][462]LogTemp: Warning: Sphere_2 names position in the world is:X=-220.000 Y=240.000 Z=70.000
+[2020.12.22-17.54.10:743][462]LogTemp: Warning: Cube_5 names position in the world is:X=60.000 Y=140.000 Z=70.000
+[2020.12.22-17.54.10:743][462]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_BuildingEscape 0.529
+[2020.12.22-17.54.10:744][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-17.54.28:505][525]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-17.54.28:505][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-17.54.28:534][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.22-17.54.28:535][525]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-17.54.28:569][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-17.54.28:573][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.12.22-17.54.28:607][526]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.12.22-17.55.17:909][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.55.18:938][495]LogMaterial: Display: Missing cached shader map for material Stone_Mat, compiling. 
+[2020.12.22-17.55.18:997][495]LogMaterial: Warning: Material /Game/Models/Stone_Mat.Stone_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.12.22-17.55.19:002][495]LogMaterial: Display: Missing cached shader map for material Stone_Mat, compiling. 
+[2020.12.22-17.55.23:163][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.55.26:386][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.12.22-17.55.37:205][868]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.22-17.55.41:355][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.12.22-17.55.43:943][ 80]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.22-17.55.43:957][ 80]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Stone_Mat.Stone_Mat
+[2020.12.22-17.55.44:718][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.12.22-17.55.49:420][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.55.51:783][463]Cmd: TRANSACTION UNDO
+[2020.12.22-17.55.51:783][463]LogEditorTransaction: Undo Create Actors
+[2020.12.22-17.55.53:073][538]Cmd: TRANSACTION UNDO
+[2020.12.22-17.55.53:073][538]LogEditorTransaction: Undo Create Actors
+[2020.12.22-17.55.54:259][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.22-17.55.54:306][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.12.22-17.55.54:441][608]LogSavePackage: Moving '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Saved/BuildingEscape81340E6F4E16E01E990D3CA95264CCE7.tmp' to '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Content/Levels/BuildingEscape.umap'
+[2020.12.22-17.55.54:490][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BuildingEscape_BuiltData" FILE="../../../../../../programming/udemy_unrealEngine/BuildingEscape/Content/Levels/BuildingEscape_BuiltData.uasset" SILENT=true
+[2020.12.22-17.55.54:535][608]LogSavePackage: Moving '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Saved/BuildingEscape_BuiltData5331221447B21DB653B95B958D1786C4.tmp' to '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Content/Levels/BuildingEscape_BuiltData.uasset'
+[2020.12.22-17.56.05:249][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Frame2)
+[2020.12.22-17.56.06:028][274]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.12.22-17.56.52:355][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.56.57:631][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.57.00:720][888]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.12.22-17.57.21:214][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.58.13:838][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.58.44:248][286]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.22-17.58.53:078][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.59.01:584][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.59.04:979][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.12.22-17.59.07:284][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-17.59.08:681][716]Cmd: SELECT NONE
+[2020.12.22-17.59.09:018][736]Cmd: SELECT NONE
+[2020.12.22-17.59.16:379][168]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.22-17.59.22:293][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.12.22-17.59.23:295][554]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2x1_Door_and_Frame_Frame2)
+[2020.12.22-17.59.26:688][750]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.22-17.59.28:140][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Frame2)
+[2020.12.22-17.59.28:930][877]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.12.22-17.59.30:956][992]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.22-17.59.39:197][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.12.22-17.59.39:725][492]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2x1_Door_and_Frame_Frame2)
+[2020.12.22-17.59.42:508][651]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.22-17.59.45:808][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Frame2)
+[2020.12.22-17.59.47:053][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.12.22-17.59.47:956][947]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2x1_Door_and_Frame_Frame2)
+[2020.12.22-17.59.52:754][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-17.59.56:667][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Frame2)
+[2020.12.22-17.59.57:659][507]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.12.22-18.00.00:760][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-18.00.09:023][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door2)
+[2020.12.22-18.00.09:773][194]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2x1_Door_and_Frame_Frame2)
+[2020.12.22-18.00.16:247][572]Cmd: SELECT NONE
+[2020.12.22-18.00.25:625][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-18.00.29:015][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.00.40:888][ 17]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.22-18.00.48:342][455]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.22-18.00.48:349][455]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.22-18.02.03:612][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.02.25:818][489]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.22-18.02.31:507][813]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.22-18.02.31:556][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.12.22-18.02.31:727][813]LogSavePackage: Moving '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Saved/BuildingEscape320CCDA44F78F9CBF1EE91A270F4D373.tmp' to '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Content/Levels/BuildingEscape.umap'
+[2020.12.22-18.02.31:770][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BuildingEscape_BuiltData" FILE="../../../../../../programming/udemy_unrealEngine/BuildingEscape/Content/Levels/BuildingEscape_BuiltData.uasset" SILENT=true
+[2020.12.22-18.02.31:812][813]LogSavePackage: Moving '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Saved/BuildingEscape_BuiltDataC63C2F264708E5070F41839ABA5515E0.tmp' to '../../../../../../programming/udemy_unrealEngine/BuildingEscape/Content/Levels/BuildingEscape_BuiltData.uasset'
+[2020.12.22-18.02.33:441][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.02.33:540][904]MapCheck: New page: Map Check
+[2020.12.22-18.02.33:557][904]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.22-18.02.33:557][904]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.22-18.02.33:571][904]LogEditorServer: Cleared 3 NULL BSP materials after rebuild.
+[2020.12.22-18.02.33:604][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.12.22-18.02.33:620][904]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.02.33:629][904]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.02.33:639][904]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.02.33:649][904]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.02.33:661][904]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.02.33:690][904]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.12.22-18.02.38:121][904]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.12.22-18.02.38:122][904]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.12.22-18.02.38:122][904]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.12.22-18.02.38:122][904]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.12.22-18.02.38:122][904]TextureStreamingBuild: Display: Compiling optional shaders took 4.507 seconds.
+[2020.12.22-18.02.38:133][904]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2020.12.22-18.02.38:144][904]TextureStreamingBuild: Display: Build Texture Streaming took 0.011 seconds.
+[2020.12.22-18.02.38:172][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.22-18.02.38:173][904]LightingResults: New page: Lighting Build - Dec 22, 2020, 6:02:38 PM
+[2020.12.22-18.02.38:181][904]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.22-18.02.38:184][904]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.22-18.02.38:184][904]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.22-18.02.38:185][904]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.22-18.02.38:185][904]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9112
+[2020.12.22-18.02.42:793][904]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.12.22-18.02.42:793][904]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.22-18.02.42:793][904]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.22-18.02.42:793][904]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.22-18.02.42:793][904]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.22-18.02.42:793][904]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.22-18.02.42:958][904]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.12.22-18.02.42:958][904]MapCheck: New page: BuildingEscape - Dec 22, 2020, 6:02:42 PM
+[2020.12.22-18.02.42:958][904]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.12.22-18.02.42:958][904]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.541ms to complete.
+[2020.12.22-18.02.42:981][904]LogEditorBuildUtils: Build time 0:09
+[2020.12.22-18.02.43:356][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.12.22-18.02.45:866][994]Job is a success!
+[2020.12.22-18.02.45:966][995]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2020.12.22-18.02.45:966][995]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.22-18.02.45:966][995]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2020.12.22-18.02.45:966][995]LogVolumetricLightmapImport:      Bricks at Level
+[2020.12.22-18.02.45:966][995]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.12.22-18.02.45:966][995]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.12.22-18.02.45:967][995]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.12.22-18.02.46:100][995]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.12.22-18.02.46:101][995]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.12.22-18.02.46:101][995]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2020.12.22-18.02.46:101][995]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2020.12.22-18.02.46:101][995]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.12.22-18.02.46:101][995]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.12.22-18.02.46:101][995]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 128X128)
+[2020.12.22-18.02.46:101][995]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2020.12.22-18.02.46:101][995]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 128X128)
+[2020.12.22-18.02.46:127][995]LogStaticLightingSystem: BuildingEscape_BuiltData storing lightmap data for 10 meshes in 4 LightmapResourceClusters (2.5 Meshes per cluster).
+[2020.12.22-18.02.46:158][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.12.22-18.02.46:176][995]LogStaticLightingSystem: Illumination: 7.96 sec (66 ms encoding lightmaps, 44 ms encoding shadowmaps)
+[2020.12.22-18.02.46:176][995]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2020.12.22-18.02.46:176][995]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.12.22-18.02.46:801][995]DumpUnbuiltLightIteractions
+[2020.12.22-18.02.46:801][995]Lights with unbuilt interactions: 0
+[2020.12.22-18.02.46:801][995]
+[2020.12.22-18.02.46:801][995]Primitives with unbuilt interactions: 0
+[2020.12.22-18.02.47:039][996]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.22-18.02.47:039][996]MapCheck: New page: BuildingEscape - Dec 22, 2020, 6:02:47 PM
+[2020.12.22-18.02.47:039][996]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.453ms to complete.
+[2020.12.22-18.02.49:025][ 85]LogSlate: Window 'Message Log' being destroyed
+[2020.12.22-18.02.49:030][ 85]LogSlate: Window 'Message Log' being destroyed
+[2020.12.22-18.02.50:936][198]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.22-18.02.50:957][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.02.50:957][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.22-18.02.50:957][198]PIE: New page: PIE session: BuildingEscape (Dec 22, 2020, 6:02:50 PM)
+[2020.12.22-18.02.50:957][198]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BuildingEscape
+[2020.12.22-18.02.50:965][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007684s)
+[2020.12.22-18.02.50:966][198]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.12.22-18.02.50:966][198]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2020.12.22-18.02.50:967][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BuildingEscape.BuildingEscape to /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape (0.009276s)
+[2020.12.22-18.02.50:994][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.12.22-18.02.51:010][198]LogInit: XAudio2 using 'Headphones (Mixcder E9 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.22-18.02.51:027][198]LogInit: FAudioDevice initialized.
+[2020.12.22-18.02.51:056][198]LogLoad: Game class is 'GameModeBase'
+[2020.12.22-18.02.51:058][198]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.12.22-18.02.51
+[2020.12.22-18.02.51:058][198]LogWorld: Bringing up level for play took: 0.001056
+[2020.12.22-18.02.51:071][198]LogTemp: Warning: Sphere_2 names position in the world is:X=-220.000 Y=240.000 Z=70.000
+[2020.12.22-18.02.51:071][198]LogTemp: Warning: Cube_5 names position in the world is:X=60.000 Y=140.000 Z=70.000
+[2020.12.22-18.02.51:071][198]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_BuildingEscape 0.857
+[2020.12.22-18.02.51:071][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.03.15:398][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.03.15:399][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-18.03.15:434][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.22-18.03.15:434][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.03.15:472][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-18.03.15:475][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.12.22-18.03.15:560][656]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.12.22-18.03.17:468][765]Cmd: SELECT NONE
+[2020.12.22-18.03.17:903][789]Cmd: SELECT NONE
+[2020.12.22-18.03.34:809][747]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.733 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.12.22-18.03.57:117][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.04.07:868][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.04.07:958][686]Candidate modules for hot reload:
+[2020.12.22-18.04.07:958][686]  BuildingEscape
+[2020.12.22-18.04.07:958][686]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,7717 Win64 Development -TargetType=Editor -Project="C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject" "C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.12.22-18.04.07:962][686]Warning: Starting HotReload took  0.0s.
+[2020.12.22-18.04.25:177][669]CompilerResultsLog: New page: Compilation - Dec 22, 2020, 6:04:25 PM
+[2020.12.22-18.04.25:177][669]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\programming\udemy_unrealEngine).
+[2020.12.22-18.04.25:177][669]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (ini files are newer than makefile)
+[2020.12.22-18.04.25:177][669]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.12.22-18.04.25:177][669]CompilerResultsLog:   Running UnrealHeaderTool "C:\programming\udemy_unrealEngine\BuildingEscape\BuildingEscape.uproject" "C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.22-18.04.25:177][669]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 10.274939 seconds
+[2020.12.22-18.04.25:177][669]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.22-18.04.25:177][669]CompilerResultsLog: Building 3 actions with 4 processes...
+[2020.12.22-18.04.25:177][669]CompilerResultsLog:   [1/3] UE4Editor-BuildingEscape-7717.lib
+[2020.12.22-18.04.25:177][669]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-7717.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-7717.exp
+[2020.12.22-18.04.25:178][669]CompilerResultsLog:   [2/3] UE4Editor-BuildingEscape-7717.dll
+[2020.12.22-18.04.25:178][669]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-7717.suppressed.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-7717.suppressed.exp
+[2020.12.22-18.04.25:178][669]CompilerResultsLog:   [3/3] BuildingEscapeEditor.target
+[2020.12.22-18.04.25:178][669]CompilerResultsLog: Total time in Parallel executor: 2.72 seconds
+[2020.12.22-18.04.25:178][669]CompilerResultsLog: Total execution time: 17.03 seconds
+[2020.12.22-18.04.25:178][669]LogMainFrame: MainFrame: Module compiling took 17.225 seconds
+[2020.12.22-18.04.25:208][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.12.22-18.04.25:239][669]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.12.22-18.04.25:242][669]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.22-18.04.25:318][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.12.22-18.04.25:335][669]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2735 classes and 663 folders.
+[2020.12.22-18.04.25:335][669]Display: HotReload took 17.4s.
+[2020.12.22-18.04.44:383][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.04.49:745][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.05.02:879][852]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.12.22-18.05.13:242][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.05.18:443][743]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.22-18.05.48:816][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-18.05.50:048][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.22-18.05.58:808][144]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.12.22-18.06.04:597][478]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2020.12.22-18.06.11:034][856]LogSlate: Took 0.009463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.22-18.06.12:966][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.06.49:968][176]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.22-18.06.51:287][249]MapCheck: New page: Map Check
+[2020.12.22-18.06.51:302][249]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.22-18.06.51:304][249]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.22-18.06.51:347][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.12.22-18.06.51:366][249]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.06.51:376][249]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.06.51:386][249]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.06.51:396][249]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.06.51:407][249]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.06.51:434][249]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.12.22-18.06.55:771][249]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.12.22-18.06.55:771][249]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.12.22-18.06.55:771][249]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.12.22-18.06.55:771][249]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.12.22-18.06.55:771][249]TextureStreamingBuild: Display: Compiling optional shaders took 4.410 seconds.
+[2020.12.22-18.06.55:783][249]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2020.12.22-18.06.55:796][249]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2020.12.22-18.06.55:824][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.12.22-18.06.55:825][249]LightingResults: New page: Lighting Build - Dec 22, 2020, 6:06:55 PM
+[2020.12.22-18.06.55:833][249]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.22-18.06.55:837][249]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.22-18.06.55:837][249]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.22-18.06.55:838][249]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.22-18.06.55:838][249]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9112
+[2020.12.22-18.07.00:383][249]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.12.22-18.07.00:383][249]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.22-18.07.00:383][249]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.22-18.07.00:383][249]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.22-18.07.00:383][249]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.22-18.07.00:383][249]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.22-18.07.00:618][249]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.12.22-18.07.00:619][249]MapCheck: New page: BuildingEscape - Dec 22, 2020, 6:07:00 PM
+[2020.12.22-18.07.00:628][249]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.12.22-18.07.00:629][249]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 9.844ms to complete.
+[2020.12.22-18.07.00:654][249]LogEditorBuildUtils: Build time 0:09
+[2020.12.22-18.07.01:019][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.12.22-18.07.03:586][347]Job is a success!
+[2020.12.22-18.07.03:697][348]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2020.12.22-18.07.03:698][348]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.22-18.07.03:698][348]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2020.12.22-18.07.03:698][348]LogVolumetricLightmapImport:      Bricks at Level
+[2020.12.22-18.07.03:698][348]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.12.22-18.07.03:698][348]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.12.22-18.07.03:698][348]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.12.22-18.07.03:837][348]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.12.22-18.07.03:837][348]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.12.22-18.07.03:837][348]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.12.22-18.07.03:837][348]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.12.22-18.07.03:837][348]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.12.22-18.07.03:837][348]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.12.22-18.07.03:837][348]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 128X128)
+[2020.12.22-18.07.03:837][348]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 32X32)
+[2020.12.22-18.07.03:837][348]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 256X128)
+[2020.12.22-18.07.03:867][348]LogStaticLightingSystem: BuildingEscape_BuiltData storing lightmap data for 10 meshes in 4 LightmapResourceClusters (2.5 Meshes per cluster).
+[2020.12.22-18.07.03:897][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.12.22-18.07.03:914][348]LogStaticLightingSystem: Illumination: 8.04 sec (82 ms encoding lightmaps, 34 ms encoding shadowmaps)
+[2020.12.22-18.07.03:914][348]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2020.12.22-18.07.03:914][348]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.2 MB streaming, 0.1 MB non-streaming), 3 textures
+[2020.12.22-18.07.04:394][348]DumpUnbuiltLightIteractions
+[2020.12.22-18.07.04:394][348]Lights with unbuilt interactions: 0
+[2020.12.22-18.07.04:394][348]
+[2020.12.22-18.07.04:394][348]Primitives with unbuilt interactions: 0
+[2020.12.22-18.07.04:625][349]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.22-18.07.04:625][349]MapCheck: New page: BuildingEscape - Dec 22, 2020, 6:07:04 PM
+[2020.12.22-18.07.04:626][349]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.639ms to complete.
+[2020.12.22-18.07.06:477][434]LogSlate: Window 'Message Log' being destroyed
+[2020.12.22-18.07.06:528][434]LogSlate: Window 'Message Log' being destroyed
+[2020.12.22-18.07.10:047][642]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.22-18.07.10:068][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.07.10:068][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.22-18.07.10:069][642]PIE: New page: PIE session: BuildingEscape (Dec 22, 2020, 6:07:10 PM)
+[2020.12.22-18.07.10:069][642]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BuildingEscape
+[2020.12.22-18.07.10:076][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007493s)
+[2020.12.22-18.07.10:077][642]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.12.22-18.07.10:078][642]LogPlayLevel: PIE: World Init took: (0.001696s)
+[2020.12.22-18.07.10:078][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BuildingEscape.BuildingEscape to /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape (0.009514s)
+[2020.12.22-18.07.10:106][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.12.22-18.07.10:120][642]LogInit: XAudio2 using 'Headphones (Mixcder E9 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.22-18.07.10:135][642]LogInit: FAudioDevice initialized.
+[2020.12.22-18.07.10:167][642]LogLoad: Game class is 'GameModeBase'
+[2020.12.22-18.07.10:169][642]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.12.22-18.07.10
+[2020.12.22-18.07.10:169][642]LogWorld: Bringing up level for play took: 0.001142
+[2020.12.22-18.07.10:182][642]LogTemp: Warning: Sphere_2 names position in the world is:X=-220.000 Y=240.000 Z=70.000
+[2020.12.22-18.07.10:182][642]LogTemp: Warning: Cube_5 names position in the world is:X=60.000 Y=140.000 Z=70.000
+[2020.12.22-18.07.10:183][642]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_BuildingEscape -0.031
+[2020.12.22-18.07.10:183][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.07.40:557][456]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.07.40:557][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-18.07.40:587][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.22-18.07.40:587][456]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.07.40:623][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-18.07.40:626][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.12.22-18.07.40:716][457]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.12.22-18.08.40:868][948]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.12.22-18.08.46:277][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.22-18.08.53:912][712]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.22-18.08.57:205][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.08.57:289][902]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.22-18.08.57:310][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.08.57:310][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.22-18.08.57:310][902]PIE: New page: PIE session: BuildingEscape (Dec 22, 2020, 6:08:57 PM)
+[2020.12.22-18.08.57:310][902]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BuildingEscape
+[2020.12.22-18.08.57:317][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006785s)
+[2020.12.22-18.08.57:318][902]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.12.22-18.08.57:318][902]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2020.12.22-18.08.57:318][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BuildingEscape.BuildingEscape to /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape (0.007903s)
+[2020.12.22-18.08.57:346][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.12.22-18.08.57:360][902]LogInit: XAudio2 using 'Headphones (Mixcder E9 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.22-18.08.57:373][902]LogInit: FAudioDevice initialized.
+[2020.12.22-18.08.57:408][902]LogLoad: Game class is 'GameModeBase'
+[2020.12.22-18.08.57:410][902]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.12.22-18.08.57
+[2020.12.22-18.08.57:411][902]LogWorld: Bringing up level for play took: 0.001152
+[2020.12.22-18.08.57:424][902]LogTemp: Warning: Sphere_2 names position in the world is:X=-220.000 Y=240.000 Z=70.000
+[2020.12.22-18.08.57:424][902]LogTemp: Warning: Cube_5 names position in the world is:X=60.000 Y=140.000 Z=70.000
+[2020.12.22-18.08.57:424][902]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_BuildingEscape -0.79
+[2020.12.22-18.08.57:424][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.09.01:611][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.09.01:611][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-18.09.01:649][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.22-18.09.01:649][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.09.01:682][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-18.09.01:685][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.12.22-18.09.01:779][152]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.12.22-18.09.03:101][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.09.03:166][230]MapCheck: New page: Map Check
+[2020.12.22-18.09.03:184][230]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.22-18.09.03:185][230]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.22-18.09.03:225][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.12.22-18.09.03:241][230]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.09.03:250][230]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.09.03:260][230]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.09.03:269][230]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.09.03:280][230]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.09.03:310][230]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.12.22-18.09.07:683][230]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.12.22-18.09.07:683][230]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.12.22-18.09.07:683][230]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.12.22-18.09.07:683][230]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.12.22-18.09.07:683][230]TextureStreamingBuild: Display: Compiling optional shaders took 4.447 seconds.
+[2020.12.22-18.09.07:697][230]LogLevel: Display: Export Material TexCoord Scales took 0.014 seconds.
+[2020.12.22-18.09.07:710][230]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2020.12.22-18.09.07:738][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.22-18.09.07:738][230]LightingResults: New page: Lighting Build - Dec 22, 2020, 6:09:07 PM
+[2020.12.22-18.09.07:746][230]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.22-18.09.07:749][230]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.22-18.09.07:749][230]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.22-18.09.07:750][230]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.22-18.09.07:750][230]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9112
+[2020.12.22-18.09.12:318][230]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.12.22-18.09.12:319][230]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.22-18.09.12:319][230]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.22-18.09.12:319][230]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.22-18.09.12:319][230]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.22-18.09.12:319][230]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.22-18.09.12:484][230]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.12.22-18.09.12:484][230]MapCheck: New page: BuildingEscape - Dec 22, 2020, 6:09:12 PM
+[2020.12.22-18.09.12:485][230]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.82ms to complete.
+[2020.12.22-18.09.12:509][230]LogEditorBuildUtils: Build time 0:09
+[2020.12.22-18.09.12:816][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.12.22-18.09.15:323][339]Job is a success!
+[2020.12.22-18.09.15:412][340]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2020.12.22-18.09.15:412][340]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.22-18.09.15:412][340]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2020.12.22-18.09.15:412][340]LogVolumetricLightmapImport:      Bricks at Level
+[2020.12.22-18.09.15:412][340]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.12.22-18.09.15:412][340]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.12.22-18.09.15:412][340]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.12.22-18.09.15:547][340]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.12.22-18.09.15:553][340]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.12.22-18.09.15:554][340]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2020.12.22-18.09.15:554][340]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2020.12.22-18.09.15:554][340]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.12.22-18.09.15:554][340]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.12.22-18.09.15:554][340]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 256X128)
+[2020.12.22-18.09.15:554][340]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2020.12.22-18.09.15:554][340]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 128X128)
+[2020.12.22-18.09.15:583][340]LogStaticLightingSystem: BuildingEscape_BuiltData storing lightmap data for 10 meshes in 4 LightmapResourceClusters (2.5 Meshes per cluster).
+[2020.12.22-18.09.15:614][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.12.22-18.09.15:632][340]LogStaticLightingSystem: Illumination: 7.87 sec (88 ms encoding lightmaps, 20 ms encoding shadowmaps)
+[2020.12.22-18.09.15:632][340]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2020.12.22-18.09.15:632][340]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.2 MB streaming, 0.1 MB non-streaming), 3 textures
+[2020.12.22-18.09.16:329][340]DumpUnbuiltLightIteractions
+[2020.12.22-18.09.16:329][340]Lights with unbuilt interactions: 0
+[2020.12.22-18.09.16:329][340]
+[2020.12.22-18.09.16:329][340]Primitives with unbuilt interactions: 0
+[2020.12.22-18.09.16:560][341]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.22-18.09.16:561][341]MapCheck: New page: BuildingEscape - Dec 22, 2020, 6:09:16 PM
+[2020.12.22-18.09.16:561][341]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.555ms to complete.
+[2020.12.22-18.09.18:585][449]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.22-18.09.18:606][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.09.18:606][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.22-18.09.18:606][449]PIE: New page: PIE session: BuildingEscape (Dec 22, 2020, 6:09:18 PM)
+[2020.12.22-18.09.18:606][449]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BuildingEscape
+[2020.12.22-18.09.18:614][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007290s)
+[2020.12.22-18.09.18:614][449]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.12.22-18.09.18:615][449]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2020.12.22-18.09.18:615][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BuildingEscape.BuildingEscape to /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape (0.008884s)
+[2020.12.22-18.09.18:644][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.12.22-18.09.18:657][449]LogInit: XAudio2 using 'Headphones (Mixcder E9 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.22-18.09.18:670][449]LogInit: FAudioDevice initialized.
+[2020.12.22-18.09.18:702][449]LogLoad: Game class is 'GameModeBase'
+[2020.12.22-18.09.18:704][449]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.12.22-18.09.18
+[2020.12.22-18.09.18:704][449]LogWorld: Bringing up level for play took: 0.001160
+[2020.12.22-18.09.18:718][449]LogTemp: Warning: Sphere_2 names position in the world is:X=-220.000 Y=240.000 Z=70.000
+[2020.12.22-18.09.18:718][449]LogTemp: Warning: Cube_5 names position in the world is:X=60.000 Y=140.000 Z=70.000
+[2020.12.22-18.09.18:719][449]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_BuildingEscape 0.504
+[2020.12.22-18.09.18:719][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.09.39:180][674]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.09.39:181][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-18.09.39:215][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.22-18.09.39:215][674]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.09.39:250][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-18.09.39:254][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.12.22-18.09.39:286][675]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.12.22-18.09.50:792][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.10.01:249][964]Cmd: DELETE
+[2020.12.22-18.10.01:249][964]Cmd: ACTOR DELETE
+[2020.12.22-18.10.01:252][964]LogEditorActor: Deleted Actor: RectLight
+[2020.12.22-18.10.01:281][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.12.22-18.10.01:281][964]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.12.22-18.10.02:571][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.10.13:280][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.10.21:791][166]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.22-18.10.25:507][384]MapCheck: New page: Map Check
+[2020.12.22-18.10.25:521][384]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.22-18.10.25:521][384]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.22-18.10.25:566][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.12.22-18.10.25:583][384]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.10.25:592][384]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.10.25:602][384]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.10.25:612][384]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.10.25:622][384]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.10.25:650][384]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.12.22-18.10.30:043][384]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.12.22-18.10.30:043][384]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.12.22-18.10.30:043][384]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.12.22-18.10.30:043][384]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.12.22-18.10.30:044][384]TextureStreamingBuild: Display: Compiling optional shaders took 4.466 seconds.
+[2020.12.22-18.10.30:055][384]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2020.12.22-18.10.30:069][384]TextureStreamingBuild: Display: Build Texture Streaming took 0.014 seconds.
+[2020.12.22-18.10.30:096][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.22-18.10.30:097][384]LightingResults: New page: Lighting Build - Dec 22, 2020, 6:10:30 PM
+[2020.12.22-18.10.30:110][384]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.22-18.10.30:113][384]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.22-18.10.30:113][384]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.22-18.10.30:114][384]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.22-18.10.30:114][384]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9112
+[2020.12.22-18.10.34:692][384]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.12.22-18.10.34:693][384]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.22-18.10.34:693][384]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.22-18.10.34:693][384]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.22-18.10.34:693][384]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.22-18.10.34:693][384]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.22-18.10.34:915][384]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.12.22-18.10.34:915][384]MapCheck: New page: BuildingEscape - Dec 22, 2020, 6:10:34 PM
+[2020.12.22-18.10.34:924][384]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.12.22-18.10.34:925][384]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 9.808ms to complete.
+[2020.12.22-18.10.34:950][384]LogEditorBuildUtils: Build time 0:09
+[2020.12.22-18.10.35:379][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.12.22-18.10.37:242][445]Candidate modules for hot reload:
+[2020.12.22-18.10.37:242][445]  BuildingEscape
+[2020.12.22-18.10.37:243][445]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,6031 Win64 Development -TargetType=Editor -Project="C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject" "C:/programming/udemy_unrealEngine/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.12.22-18.10.37:246][445]Warning: Starting HotReload took  0.0s.
+[2020.12.22-18.10.39:310][515]Job is a success!
+[2020.12.22-18.10.39:442][516]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2020.12.22-18.10.39:443][516]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.22-18.10.39:443][516]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2020.12.22-18.10.39:443][516]LogVolumetricLightmapImport:      Bricks at Level
+[2020.12.22-18.10.39:443][516]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.12.22-18.10.39:443][516]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.12.22-18.10.39:443][516]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.12.22-18.10.39:607][516]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.12.22-18.10.39:607][516]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.12.22-18.10.39:607][516]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.12.22-18.10.39:608][516]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.12.22-18.10.39:608][516]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.12.22-18.10.39:608][516]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.12.22-18.10.39:608][516]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 128X128)
+[2020.12.22-18.10.39:608][516]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 256X128)
+[2020.12.22-18.10.39:608][516]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 32X32)
+[2020.12.22-18.10.39:640][516]LogStaticLightingSystem: BuildingEscape_BuiltData storing lightmap data for 10 meshes in 4 LightmapResourceClusters (2.5 Meshes per cluster).
+[2020.12.22-18.10.39:671][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.12.22-18.10.39:686][516]LogStaticLightingSystem: Illumination: 9.54 sec (85 ms encoding lightmaps, 50 ms encoding shadowmaps)
+[2020.12.22-18.10.39:686][516]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2020.12.22-18.10.39:686][516]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.2 MB streaming, 0.1 MB non-streaming), 3 textures
+[2020.12.22-18.10.39:706][516]DumpUnbuiltLightIteractions
+[2020.12.22-18.10.39:706][516]Lights with unbuilt interactions: 0
+[2020.12.22-18.10.39:706][516]
+[2020.12.22-18.10.39:706][516]Primitives with unbuilt interactions: 0
+[2020.12.22-18.10.39:960][517]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.22-18.10.39:961][517]MapCheck: New page: BuildingEscape - Dec 22, 2020, 6:10:39 PM
+[2020.12.22-18.10.39:961][517]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.743ms to complete.
+[2020.12.22-18.10.56:455][381]CompilerResultsLog: New page: Compilation - Dec 22, 2020, 6:10:56 PM
+[2020.12.22-18.10.56:455][381]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\programming\udemy_unrealEngine).
+[2020.12.22-18.10.56:456][381]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (ini files are newer than makefile)
+[2020.12.22-18.10.56:456][381]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.12.22-18.10.56:456][381]CompilerResultsLog:   Running UnrealHeaderTool "C:\programming\udemy_unrealEngine\BuildingEscape\BuildingEscape.uproject" "C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.22-18.10.56:456][381]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 11.2511601 seconds
+[2020.12.22-18.10.56:456][381]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.22-18.10.56:456][381]CompilerResultsLog: Building 3 actions with 4 processes...
+[2020.12.22-18.10.56:456][381]CompilerResultsLog:   [1/3] UE4Editor-BuildingEscape-6031.lib
+[2020.12.22-18.10.56:456][381]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-6031.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-6031.exp
+[2020.12.22-18.10.56:456][381]CompilerResultsLog:   [2/3] UE4Editor-BuildingEscape-6031.dll
+[2020.12.22-18.10.56:456][381]CompilerResultsLog:      Creating library C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-6031.suppressed.lib and object C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-6031.suppressed.exp
+[2020.12.22-18.10.56:456][381]CompilerResultsLog:   [3/3] BuildingEscapeEditor.target
+[2020.12.22-18.10.56:456][381]CompilerResultsLog: Total time in Parallel executor: 3.41 seconds
+[2020.12.22-18.10.56:456][381]CompilerResultsLog: Total execution time: 18.87 seconds
+[2020.12.22-18.10.56:456][381]LogMainFrame: MainFrame: Module compiling took 19.230 seconds
+[2020.12.22-18.10.56:491][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.12.22-18.10.56:523][381]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2020.12.22-18.10.56:526][381]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.22-18.10.56:598][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.12.22-18.10.56:616][381]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2735 classes and 663 folders.
+[2020.12.22-18.10.56:616][381]Display: HotReload took 19.4s.
+[2020.12.22-18.10.58:449][386]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.22-18.10.58:473][386]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.10.58:473][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.22-18.10.58:473][386]PIE: New page: PIE session: BuildingEscape (Dec 22, 2020, 6:10:58 PM)
+[2020.12.22-18.10.58:473][386]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BuildingEscape
+[2020.12.22-18.10.58:480][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006632s)
+[2020.12.22-18.10.58:480][386]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.12.22-18.10.58:481][386]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2020.12.22-18.10.58:481][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BuildingEscape.BuildingEscape to /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape (0.007610s)
+[2020.12.22-18.10.58:508][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.12.22-18.10.58:524][386]LogInit: XAudio2 using 'Headphones (Mixcder E9 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.22-18.10.58:539][386]LogInit: FAudioDevice initialized.
+[2020.12.22-18.10.58:571][386]LogLoad: Game class is 'GameModeBase'
+[2020.12.22-18.10.58:574][386]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.12.22-18.10.58
+[2020.12.22-18.10.58:574][386]LogWorld: Bringing up level for play took: 0.001507
+[2020.12.22-18.10.58:587][386]LogTemp: Warning: Sphere_2 names position in the world is:X=-220.000 Y=240.000 Z=70.000
+[2020.12.22-18.10.58:587][386]LogTemp: Warning: Cube_5 names position in the world is:X=60.000 Y=140.000 Z=70.000
+[2020.12.22-18.10.58:587][386]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_BuildingEscape 0.373
+[2020.12.22-18.10.58:588][386]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.11.10:259][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.11.10:259][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-18.11.10:294][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.22-18.11.10:294][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.11.10:325][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-18.11.10:329][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.12.22-18.11.10:359][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.12.22-18.11.48:562][328]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.22-18.11.55:817][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.11.55:916][758]LogSlate: Window 'Message Log' being destroyed
+[2020.12.22-18.11.55:922][758]LogSlate: Window 'Message Log' being destroyed
+[2020.12.22-18.12.04:148][228]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2020.12.22-18.12.09:143][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.12.13:321][750]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.22-18.12.19:948][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.12.42:078][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.12.42:144][458]MapCheck: New page: Map Check
+[2020.12.22-18.12.42:162][458]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.22-18.12.42:164][458]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.22-18.12.42:177][458]LogEditorServer: Cleared 1 NULL BSP materials after rebuild.
+[2020.12.22-18.12.42:206][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.12.22-18.12.42:223][458]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.12.42:233][458]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.12.42:243][458]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.12.42:254][458]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.12.42:264][458]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.12.42:293][458]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.12.22-18.12.47:569][458]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.12.22-18.12.47:570][458]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.12.22-18.12.47:570][458]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.12.22-18.12.47:570][458]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.12.22-18.12.47:570][458]TextureStreamingBuild: Display: Compiling optional shaders took 5.351 seconds.
+[2020.12.22-18.12.47:583][458]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2020.12.22-18.12.47:597][458]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2020.12.22-18.12.47:626][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.12.22-18.12.47:627][458]LightingResults: New page: Lighting Build - Dec 22, 2020, 6:12:47 PM
+[2020.12.22-18.12.47:635][458]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.22-18.12.47:638][458]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.22-18.12.47:638][458]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.22-18.12.47:639][458]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.22-18.12.47:639][458]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9112
+[2020.12.22-18.12.52:213][458]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.12.22-18.12.52:214][458]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.22-18.12.52:214][458]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.22-18.12.52:214][458]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.22-18.12.52:214][458]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.22-18.12.52:214][458]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.22-18.12.52:438][458]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.12.22-18.12.52:438][458]MapCheck: New page: BuildingEscape - Dec 22, 2020, 6:12:52 PM
+[2020.12.22-18.12.52:448][458]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.12.22-18.12.52:448][458]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 9.484ms to complete.
+[2020.12.22-18.12.52:473][458]LogEditorBuildUtils: Build time 0:10
+[2020.12.22-18.12.53:223][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.12.22-18.12.55:324][468]Job is a success!
+[2020.12.22-18.12.55:727][469]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2020.12.22-18.12.55:727][469]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.22-18.12.55:727][469]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2020.12.22-18.12.55:727][469]LogVolumetricLightmapImport:      Bricks at Level
+[2020.12.22-18.12.55:727][469]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.12.22-18.12.55:727][469]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.12.22-18.12.55:727][469]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.12.22-18.12.55:935][469]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.12.22-18.12.55:935][469]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.12.22-18.12.55:935][469]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2020.12.22-18.12.55:935][469]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2020.12.22-18.12.55:935][469]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.12.22-18.12.55:935][469]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.12.22-18.12.55:935][469]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 256X128)
+[2020.12.22-18.12.55:935][469]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 32X32)
+[2020.12.22-18.12.55:935][469]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 128X128)
+[2020.12.22-18.12.55:954][469]LogStaticLightingSystem: BuildingEscape_BuiltData storing lightmap data for 10 meshes in 4 LightmapResourceClusters (2.5 Meshes per cluster).
+[2020.12.22-18.12.55:981][469]Lightmass on DESKTOP-20QOTAL: 2.01 sec total, 221 ms importing, 31 ms setup, 247 ms photons, 1.45 sec processing, 0 ms extra exporting [32/32 mappings]. Threads: 5.76 sec total, 900 ms processing.
+[2020.12.22-18.12.55:984][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.12.22-18.12.55:997][469]LogStaticLightingSystem: Illumination: 8.03 sec (112 ms encoding lightmaps, 50 ms encoding shadowmaps)
+[2020.12.22-18.12.55:998][469]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2020.12.22-18.12.55:998][469]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.2 MB streaming, 0.1 MB non-streaming), 3 textures
+[2020.12.22-18.12.56:224][469]DumpUnbuiltLightIteractions
+[2020.12.22-18.12.56:225][469]Lights with unbuilt interactions: 0
+[2020.12.22-18.12.56:225][469]
+[2020.12.22-18.12.56:225][469]Primitives with unbuilt interactions: 0
+[2020.12.22-18.12.56:441][470]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.22-18.12.56:443][470]MapCheck: New page: BuildingEscape - Dec 22, 2020, 6:12:56 PM
+[2020.12.22-18.12.56:444][470]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.359ms to complete.
+[2020.12.22-18.13.29:267][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.13.29:334][634]MapCheck: New page: Map Check
+[2020.12.22-18.13.29:354][634]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.22-18.13.29:354][634]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.22-18.13.29:403][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.12.22-18.13.29:419][634]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.13.29:428][634]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.13.29:438][634]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.13.29:447][634]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.13.29:457][634]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.22-18.13.29:489][634]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.12.22-18.13.34:504][634]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.12.22-18.13.34:505][634]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.12.22-18.13.34:505][634]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.12.22-18.13.34:505][634]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.12.22-18.13.34:505][634]TextureStreamingBuild: Display: Compiling optional shaders took 5.090 seconds.
+[2020.12.22-18.13.34:518][634]LogLevel: Display: Export Material TexCoord Scales took 0.014 seconds.
+[2020.12.22-18.13.34:533][634]TextureStreamingBuild: Display: Build Texture Streaming took 0.014 seconds.
+[2020.12.22-18.13.34:561][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.22-18.13.34:562][634]LightingResults: New page: Lighting Build - Dec 22, 2020, 6:13:34 PM
+[2020.12.22-18.13.34:570][634]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.22-18.13.34:573][634]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.22-18.13.34:573][634]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.22-18.13.34:574][634]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.22-18.13.34:575][634]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9112
+[2020.12.22-18.13.39:262][634]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.12.22-18.13.39:262][634]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.22-18.13.39:263][634]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.22-18.13.39:263][634]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.22-18.13.39:263][634]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.22-18.13.39:263][634]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.22-18.13.39:424][634]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.12.22-18.13.39:424][634]MapCheck: New page: BuildingEscape - Dec 22, 2020, 6:13:39 PM
+[2020.12.22-18.13.39:424][634]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.529ms to complete.
+[2020.12.22-18.13.39:448][634]LogEditorBuildUtils: Build time 0:10
+[2020.12.22-18.13.39:786][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.12.22-18.13.42:382][739]Job is a success!
+[2020.12.22-18.13.42:484][740]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2020.12.22-18.13.42:485][740]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.22-18.13.42:485][740]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2020.12.22-18.13.42:485][740]LogVolumetricLightmapImport:      Bricks at Level
+[2020.12.22-18.13.42:485][740]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.12.22-18.13.42:485][740]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.12.22-18.13.42:485][740]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.12.22-18.13.42:615][740]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.12.22-18.13.42:615][740]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.12.22-18.13.42:615][740]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.12.22-18.13.42:615][740]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.12.22-18.13.42:615][740]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.12.22-18.13.42:615][740]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.12.22-18.13.42:615][740]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 128X128)
+[2020.12.22-18.13.42:615][740]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 32X32)
+[2020.12.22-18.13.42:615][740]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 256X128)
+[2020.12.22-18.13.42:650][740]LogStaticLightingSystem: BuildingEscape_BuiltData storing lightmap data for 10 meshes in 4 LightmapResourceClusters (2.5 Meshes per cluster).
+[2020.12.22-18.13.42:678][740]Lightmass on DESKTOP-20QOTAL: 2.19 sec total, 287 ms importing, 36 ms setup, 246 ms photons, 1.55 sec processing, 0 ms extra exporting [32/32 mappings]. Threads: 6.18 sec total, 1.66 sec processing.
+[2020.12.22-18.13.42:680][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.12.22-18.13.42:697][740]LogStaticLightingSystem: Illumination: 8.09 sec (77 ms encoding lightmaps, 30 ms encoding shadowmaps)
+[2020.12.22-18.13.42:697][740]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2020.12.22-18.13.42:697][740]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.2 MB streaming, 0.1 MB non-streaming), 3 textures
+[2020.12.22-18.13.43:272][740]DumpUnbuiltLightIteractions
+[2020.12.22-18.13.43:272][740]Lights with unbuilt interactions: 0
+[2020.12.22-18.13.43:272][740]
+[2020.12.22-18.13.43:272][740]Primitives with unbuilt interactions: 0
+[2020.12.22-18.13.43:508][741]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.22-18.13.43:508][741]MapCheck: New page: BuildingEscape - Dec 22, 2020, 6:13:43 PM
+[2020.12.22-18.13.43:508][741]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.582ms to complete.
+[2020.12.22-18.13.44:365][781]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.22-18.13.44:386][781]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.13.44:386][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.22-18.13.44:386][781]PIE: New page: PIE session: BuildingEscape (Dec 22, 2020, 6:13:44 PM)
+[2020.12.22-18.13.44:386][781]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BuildingEscape
+[2020.12.22-18.13.44:396][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009975s)
+[2020.12.22-18.13.44:397][781]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.12.22-18.13.44:398][781]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2020.12.22-18.13.44:398][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BuildingEscape.BuildingEscape to /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape (0.011788s)
+[2020.12.22-18.13.44:428][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.12.22-18.13.44:443][781]LogInit: XAudio2 using 'Headphones (Mixcder E9 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.22-18.13.44:456][781]LogInit: FAudioDevice initialized.
+[2020.12.22-18.13.44:485][781]LogLoad: Game class is 'GameModeBase'
+[2020.12.22-18.13.44:487][781]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.12.22-18.13.44
+[2020.12.22-18.13.44:488][781]LogWorld: Bringing up level for play took: 0.001270
+[2020.12.22-18.13.44:501][781]LogTemp: Warning: Sphere_2 names position in the world is:X=-220.000 Y=240.000 Z=70.000
+[2020.12.22-18.13.44:501][781]LogTemp: Warning: Cube_5 names position in the world is:X=60.000 Y=140.000 Z=70.000
+[2020.12.22-18.13.44:501][781]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_BuildingEscape 0.287
+[2020.12.22-18.13.44:502][781]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.13.55:669][447]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.13.55:670][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-18.13.55:704][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.22-18.13.55:704][447]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.12.22-18.13.55:739][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.22-18.13.55:742][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.12.22-18.13.55:843][448]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.12.22-18.13.59:194][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.22-18.13.59:291][646]LogSlate: Window 'Message Log' being destroyed
+[2020.12.22-18.13.59:297][646]LogSlate: Window 'Message Log' being destroyed
