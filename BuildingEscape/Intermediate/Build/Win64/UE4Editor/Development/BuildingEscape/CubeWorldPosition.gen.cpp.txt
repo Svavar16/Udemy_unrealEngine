@@ -1,5 +1,0 @@
-C:\programming\udemy_unrealEngine\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Definitions.BuildingEscape.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\programming\udemy_unrealEngine\BuildingEscape\Source\BuildingEscape/CubeWorldPosition.h
-c:\programming\udemy_unrealengine\buildingescape\intermediate\build\win64\ue4editor\inc\buildingescape\CubeWorldPosition.generated.h
